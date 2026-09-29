@@ -2,7 +2,7 @@
 
 ## 1. Tiivistelmä
 
-<Lyhyt, yhden kappaleen tiivistelmä aiheesta>
+**Game Design** eli **pelisuunnittelu** tarkoittaa pelin sisällön ja toiminnan suunnittelua. Siihen sisältyy esim. tarinan, mekaniikan, hahmojen, tasojen, pelikokemuksen ja visuaalisen tyylin suunnittelua. Sen tavoitteena on luoda pelaajalle mielenkiintoinen, toimiva, tasapainoinen ja hauska peli.
 
 ## 2. Johdanto
 
