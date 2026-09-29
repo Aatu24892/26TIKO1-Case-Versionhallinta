@@ -1,8 +1,8 @@
-#  Tekoälyn ja koneoppimisen nykytila
+# Game Design
 
 ## 1. Tiivistelmä
 
-Tekoälymallit, kuten ChatGPT, Claude ja Gemini, ovat tekstiä, koodia ja analyysiä kirjottavia keinöälyjä, joilla pystyy myös tekemään videoita ja kuvia esim. Pixverse, Higgsfield. Uudet mallit pystyvät myös tekemään itsenäisesti asioita mcp avulla esim. hallitsemaan tietokonetta. Tekoäly on
+<Lyhyt, yhden kappaleen tiivistelmä aiheesta>
 
 ## 2. Johdanto
 
@@ -43,4 +43,5 @@ Tekoälymallit, kuten ChatGPT, Claude ja Gemini, ovat tekstiä, koodia ja analyy
 - [1st Link Text](URL)
 - [2nd Link Text](URL)
 - <jne>
+
 <!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
