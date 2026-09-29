@@ -2,7 +2,7 @@
 
 ## 1. Tiivistelmä
 
-Suuret kielimallit
+Tekoälymallit, kuten ChatGPT, Claude ja Gemini, ovat tekstiä, koodia ja analyysiä kirjottavia keinöälyjä, joilla pystyy myös tekemään videoita ja kuvia esim. Pixverse, Higgsfield. Uudet mallit pystyvät myös tekemään itsenäisesti asioita mcp avulla esim. hallitsemaan tietokonetta. Tekoäly on
 
 ## 2. Johdanto
 
