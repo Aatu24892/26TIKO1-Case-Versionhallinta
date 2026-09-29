@@ -1,4 +1,4 @@
-#  Tekoälyn ja koneoppimisen nykytila
+# Tekoälyn ja koneoppimisen nykytila
 
 ## 1. Tiivistelmä
 
@@ -14,33 +14,54 @@ Esimerkki työtehtäviä, joita on alettu korvaamaan tai automatisoimaan keinoä
 
 ## 3. Työkaluja
 
-<Aiheeseen liittyvät ohjelmat, menetelmät, verkkosivut tms.>
+Työkaluja löytyy monenlaisia, osa valmiita ja osan joutuu itse conffaan, promtaan tai asentaan. Toiset on ympäristöjä ja toiset kirjastoja. Näitä käyttämällä pystytään myös tekemään omia malleja.
 
-### 3.1. <Ohjelma 1>
+### 3.1. Claude Anthropic
+Claude Anthropic on todella suosittu ja kehuttu malli, joka on tällä hetkellä kärkikahinoissa mallikehityksessä. Sillä pystyy hallitsemaan tietokonetta, luomaan kuvia, kirjottaan koodia, tekemään analyysejä ja tekemään todella isoja projekteja, joissa pystyy hyödyntämään multi mcp tooleja, eli monen agentin saman aikaista käyttöä.
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
+Palvelua pystyy käyttämään selaimessa, koneella ja puhelimella. Sitä voi käyttää yksityishenkilö, yritys tai järjestö. Sen käyttönotto on todella helppo, se ladataan ja sitten se on käyttö valmis.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
+Claudella saa automatisoitua helppoja tehtäviä, sillä pystyy automatisoimaan konetehtäviä, markkinointia, ja ihan mitä vaan mieleen tulee. Mutta pitää muistaa ettei ikinä syötä keinoälylle dataa, jota et haluaisi kenenkään muun näkevän.
 
-### 3.2. <Ohjelma 2>
+### 3.2. GitHub Copilot
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
+GitHub Copilot toimii koodarin koodieditorissa. Se ehdottaa seuraavia rivejä jo kirjoittamisen aikana. Copilot selittää vierasta koodia ja kirjoittaa testejä.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
+Käyttöönotto vaatii laajennuksen asentamisen editoriin, esimerkiksi Visual Studio Codeen, ja kirjautumisen GitHub-tilillä. Ilmaisversiossa on rajoituksia. Opiskelijana voit saada laajemman version maksutta GitHub Educationin kautta!
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
+Copilot sopii sekä aloittelijoille että kokeneille ohjelmoijille. Toistuvaa pohjakoodia tarvitsee kirjoittaa vähemmän, ja esimerkin saa suoraan editoriin. Jokainen ehdotus pitää silti lukea ja ymmärtää ennen hyväksymistä, koska joukossa voi olla virheitä tai tietoturva-aukkoja.
 
-<!-- 3.3. , 3.4. jne. tarvittaessa -->
+### 3.3. PyTorch
+
+PyTorch on avoimen lähdekoodin Python-kirjasto, jolla tehdään ja koulutetaan neuroverkkoja. Se on Metan kehittämä, ja nykyään sitä ylläpitää PyTorch Foundation. Tutkijat ja yritykset käyttävät sitä enemmän kuin mitään muuta syväoppimiskehystä, ja monet tunnetut kielimallit ovat koulutettu juuri tällä.
+
+PyTorch on ilmainen. Sen voi asentaa komennolla `pip install torch`. Näytönohjain nopeuttaa laskentaa huomattavasti, mutta pieniä kokeiluja voi tehdä heikkommillakin spekseillä. Käyttäjältä vaaditaan Python taitoja ja koneoppimisen perusteita.
+PyTorchilla voi kouluttaa oman mallin Sitä on helppo muokata  ja virheet on helppo jäljittää.
+
+### 3.4. Hugging Face
+
+Hugging Face on verkkopalvelu, johon käyttäjät ovat jakaneet satojatuhansia valmiita malleja ja datajoukkoja. Palvelun Transformers-kirjastolla kielimallin saa käyttöön muutamalla Python-rivillä. Joukossa on myös suomea osaavia malleja.
+
+Osittain palvelu on ilmainen. Malleja voi selata Hugging Facen sivuilla ilman tiliä, ja asentaa kirjaston komennolla `pip install transformers`. Maksullisia ovat palvelut, joissa malleja ajetaan Hugging Facen pilvessä.
+
+Valmis malli säästää aikaa, sillä sitä ei tarvitse kouluttaa alusta. Voit ottaa käyttöön sellaisenaan tai hienosäätää sitä omalla datalla. Hugging Face sopii yrityksille, jotka haluavat pitää datan omilla palvelimillaan ja käyttää avoimia malleja.
 
 ## 4. Yhteenveto
 
-<Omat johtopäätökset ja suositukset>
+Tekoäly siirtyy kokoajan enemmän yksinkertaisten kysymyksien vastaamisesta kokonaisten tehtävien tekemiseen ja prosessien automointiin. Työssä tämä näkyy jo nyt. Koodin kirjoittamiseen kuluu vähemmän aikaa ja ihminen valvoo ja suunnittelee koodin sanallisesti jonka tekoäly sitten kirjoittaa.
+
+Suosittelen lämpimästi, että opiskelijat testaa ainakin yhtä tekoälyavustajaa, kuten Clauda, Grokia tai ChatGPT:tä. Koodiavustajaksi esimerkiksi Github Copilot. Niiden kanssa voi suunnitella ja toteuttaa yksin tunnissa projekteja jotka olisivat ennen vaatineet 4 hengen ryhmän ja useita tunteja yhdessä tekemistä. EU:n Tekoälysäädösten perusajatus on hyvä tuntea. Pitäkää myös mielessä yksityisyys, tekijänoikeudet ja tekoälyn hallusinointi, koska työpaikoissa niistä puhutaan yhä useammin.
 
 ## 5. Lähteet
-https://selkosanomat.fi/suomi/google-rakentaa-suomeen-suuria-datakeskuksia/
-- [1st Link Text](URL)
-- [2nd Link Text](URL)
-- <jne>
-<!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
+
+- [Selkosanomat: Google rakentaa Suomeen suuria datakeskuksia](https://selkosanomat.fi/suomi/google-rakentaa-suomeen-suuria-datakeskuksia/)
+- [Elements of AI: ilmainen tekoälykurssi](https://www.elementsofai.fi/)
+- [Euroopan komissio: tekoälysäädös](https://digital-strategy.ec.europa.eu/fi/policies/regulatory-framework-ai)
+- [Stanford AI Index -raportti](https://aiindex.stanford.edu/)
+- [Vaswani ym. (2017): Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [PyTorch](https://pytorch.org/)
+- [Hugging Face](https://huggingface.co/)

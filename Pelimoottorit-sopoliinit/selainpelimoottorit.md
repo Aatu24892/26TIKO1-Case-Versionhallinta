@@ -1,46 +1,24 @@
 # Selainpelimoottorit
 
-## 1. Tiivistelmä
+## 1. Tiivistys
+Selainpelimoottorit mahdollistavat webselain pelit, niihin käy monia muita pelimoottoreita, kuten Unity, Godot, Phaser, joihin käytetään esim. WebGPU tai WebGL API:a jotka sitten mahdollistavat grafiikkakiihdytyksen ja muut graafiset käytänteet
 
-<Lyhyt, yhden kappaleen tiivistelmä aiheesta>
 
-## 2. Johdanto
+### 2.1. PlayCanvas
 
-<Selitys, mistä artikkelin aiheessa on kyse>
 
-<Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
+### 2.2. Phaser
 
-<!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
 
-## 3. Työkaluja
+### 2.3. Babylon.js
 
-<Aiheeseen liittyvät ohjelmat, menetelmät, verkkosivut tms.>
 
-### 3.1. <Ohjelma 1>
+### 2.4. WebGPU / WebGL
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
+## 3. Lähteet
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
-
-### 3.2. <Ohjelma 2>
-
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
-
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
-
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
-
-<!-- 3.3. , 3.4. jne. tarvittaessa -->
-
-## 4. Yhteenveto
-
-<Omat johtopäätökset ja suositukset>
-
-## 5. Lähteet
-
-- [1st Link Text](URL)
-- [2nd Link Text](URL)
-- <jne>
-<!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
+- [PlayCanvas Wikipedia](https://en.wikipedia.org/wiki/PlayCanvas)
+- [Phaser Wikipedia](en.wikipedia.org/wiki/Phaser_(game_framework))
+- [Babylon.js Wikipedia](https://en.wikipedia.org/wiki/Babylon.js)
+- [WebGPU Wikipedia](https://en.wikipedia.org/wiki/WebGPU)
