@@ -1,8 +1,18 @@
 # Plaani
 
-1. Dokumentti: Unity ja C# yleisesti
+1. Dokumentti: Unity ja C# mobiili yleisesti
+Unity tärkeet infot
+-ilmainen
+-tosi suosittu
+-mitkä pelit käyttää
+Unity historia
+-tehty 2005
 
-2. Dokumentti: Miten Unity ja C# näkyvat mobiili- ja Indie-tuotannoissa
+c# infot:
+-simppeli ja moderni
+-kuuluu c-koodiperheeseen, mutta samankaltainen javan kanssa
+
+2. Dokumentti: Miten Unity ja C# mobiili näkyvat Indie-tuotannoissa
 
 3. Dokumentti: Unreal Engine ja C++
 - Unreal engine historiaa
