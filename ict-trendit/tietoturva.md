@@ -4,13 +4,14 @@
 
 Tietoturva on erittäin tärkeä osa koko ICT-alaa, koska ilman sitä rikolliset tai muut tahot voisivat toimia aivan vapaasti. Lyhyesti tietoturva on tietojen suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia. Kyberuhat ovat niitä uhkia/vaaroja joita vastaan me ICT-alalla yritämme suojautua tietoturvan avulla. Tämä tarkoittaa esimerkiksi palomuureja, virustorjuntaa tai vahvoja salasanoja.
 
-## 2. Johdanto
+## 2. Johdanto Tietoturvaan
 
-<Selitys, mistä artikkelin aiheessa on kyse>
+Ehkä yksi tärkeimmistä asioista mitä ICT-alaan liittyy on tietoturva.
+Siitä ei yleensä puhuta paljoa ja moni ei välttämättä edes tiedä mitä se on.
 
-<Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
-
-<!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
+Tietoturvaa on erilaista koodarin ja tavallisen henkilön näkökulmista.
+Tavalliselle henkilölle se voi olla vahvoja salasanoja, kun taas koodari miettii
+miten käyttäjien salasant tallennetaan turvallisesti.
 
 ## 3. Työkaluja
 
