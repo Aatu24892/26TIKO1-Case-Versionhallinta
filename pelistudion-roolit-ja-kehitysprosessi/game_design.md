@@ -34,7 +34,8 @@ Blender on ilmainen avoimenlähdekoodin 3D-mallinnusohjelma. Pelisuunnittelussa 
 
 ### 3.3. Photoshop
 
-photoshop
+Photoshop on Adoben tekemä kuvan muokkaus työkalu, jolla voi nimensä mukaisesti muokata kuvia kaikilla eri tavoilla. Se julkaistiin 1990 ja on todella suuressa käytössä nykypäivänä. Se kasvoi niin suureksi, että siitä muodostui uusi slangi sana photoshoppaus ja sitä alettiin käyttämään kuvanmuokkauksen tilalla, vaikka siihen ei olisi käytetty Photoshop ohjelmaa.
+Photoshop kuuluu Creative Cloud pakettiin, jota Adobe myy kuukausimaksulla. Siinä tulee mukana eri määrä sovelluksia riippuen siitä minkä paketin tilaa.
 
 ### 3.4. Figma
 
@@ -48,5 +49,4 @@ Figma on suunnittelutyökalu, sitä käytetään erityisesti käyttöliittymän 
 
 - [Unity wikipedia](<https://en.wikipedia.org/wiki/Unity_(game_engine)>)
 - [Figma wikipedia](https://en.wikipedia.org/wiki/Figma)
-
-<!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
+- [Adobe Photoshop wikipedia](https://en.wikipedia.org/wiki/Adobe_Photoshop)
