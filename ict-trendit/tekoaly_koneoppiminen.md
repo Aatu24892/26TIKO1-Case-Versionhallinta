@@ -1,30 +1,28 @@
-# <Artikkelin nimi>
+# Tekoälyn ja koneoppimisen nykytila
 
 ## 1. Tiivistelmä
 
-<Lyhyt, yhden kappaleen tiivistelmä aiheesta>
+Tekoälymallit, kuten ChatGPT, Claude ja Gemini, ovat tekstiä, koodia ja analyysiä kirjottavia keinöälyjä, joilla pystyy myös tekemään videoita ja kuvia esim. Pixverse, Higgsfield. Uudet mallit pystyvät myös tekemään itsenäisesti asioita mcp avulla esim. hallitsemaan tietokonetta. Tekoäly on muuttanut työmarkkinaa huomattavasti, joista suurimpina aloina on ohjelmistokehitys, web-koodaus, sillä tekoälyllä luotuja ohjelmia ja nettisivuja on luodaan päivässä enemmän kun aurajoessa virtaa vettä. Isoimpana ongelmana tällä hetkellä asiassa on iso sähkön kulutus, joka johtuu datakeskuksien suuresta sähkön tarpeesta. Suomeen olla rakentamassa uusia datakeskuksia, jotka vaatisi olkiluoto 3 koko vuosittais sähkön. Mallit antavat myös vääriä vastauksia ja ihmiset tekee todella vakavia elämän tai työelämän päätöksiä sen varassa, jotka näiden virheiden takia menevät sitten pahasti mönkään. Myös tekoälysäädös tuo yrityksille uusia, velvotteita esim. markkinoinnin suhteen.
 
 ## 2. Johdanto
 
-<Selitys, mistä artikkelin aiheessa on kyse>
+Keinoälyllä tarkoitetaan järjestelmiä, jotka hoitavat tehtäviä, joihin tarvitaan ihmistä yleensä, kuten kielen ymmärtämistä, ongelman ratkaisua tai asioiden tunnistamista. Keinoäly ei itse osaa asioita vaan se opiskelee ne dataasta, jolla se on koulutettu ja joissain tapauksissa kouluttaa itsensä.
 
-<Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
+IT-Firmoissa tekoäly on nykypäivää ja sitä käytetään useasti ongelmanratkasu kamuna, brainstormerina ja testaajana. Tämä on kiva lisä, mutta tiedämme että ainakun, jotain saa pitää antaa jotain vastineeksi. Data, eli ainakun haluat johkin vastauksen annat dataa esim. Haluat tehdä yrityksesi uudesta koodista analyysiä ja buggausta. Päätät laittaa koko koodin sinne ja kaikki firman datan, saat toki vastauksia ja varmasti apua, siihen mitä koodisasi vois parantaaa ja mitä pitää korjata, mutta nyt ulkoisella firmalla on teidän dataa, joka vuotaessaan aiheuttaa massiiviset vauriot teidän firmalle, eli älä tee näin. Tästä syystä monella yrityksellä on omia tekoälymalleja. Tässä kohtaa jos paska osuu tuulettimeen, se on teidän vika ja yleensä siinä kohtaa tietomurossa on saatu teidän data anycase, joten asia on enemmän perusteltua.
 
-<!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
+Esimerkki työtehtäviä, joita on alettu korvaamaan tai automatisoimaan keinoälyllä. Rutiinityöt, kuten anturivalvonta, kulunvalvonta ja asiakaspalvelu. Anturivalvonta on mittaustyötä, jolla mitataan jonkin objectin välittämää arvoa, jossain asteikossa, kuten happi tai lämpöarvo, näitä käytetään esimerkiksi rakennustyömaalla tai turvallisuusalalla. Kulunvalvonta on osa jokaista isoa corporaatiota, sillä varmistetaan turvallisuutta ja sillä on aina live data, missä kukakin on käyny tai tällä hetkellä on. Tämä auttaa selvittämään rikoksia tai palotulessa, ketä on rakenuksessa. Asiakaspalvelussa saadaan vähenettyä työvoimaa ja kuluja tekemällä itsepalvelu automaatteja esim. lentokentällä checkin.
 
 ## 3. Työkaluja
 
-<Aiheeseen liittyvät ohjelmat, menetelmät, verkkosivut tms.>
+Työkaluja löytyy monenlaisia, osa valmiita ja osan joutuu itse conffaan, promtaan tai asentaan. Toiset on ympäristöjä ja toiset kirjastoja. Näitä käyttämällä pystytään myös tekemään omia malleja.
 
-### 3.1. <Ohjelma 1>
+### 3.1. Claude Anthropic
+Claude Anthropic on todella suosittu ja kehuttu malli, joka on tällä hetkellä kärkikahinoissa mallikehityksessä. Sillä pystyy hallitsemaan tietokonetta, luomaan kuvia, kirjottaan koodia, tekemään analyysejä ja tekemään todella isoja projekteja, joissa pystyy hyödyntämään multi mcp tooleja, eli monen agentin saman aikaista käyttöä.
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
+Palvelua pystyy käyttämään selaimessa, koneella ja puhelimella. Sitä voi käyttää yksityishenkilö, yritys tai järjestö. Sen käyttönotto on todella helppo, se ladataan ja sitten se on käyttö valmis.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
-
-code ict-trendit\tekoaly_koneoppiminen.md
+Claudella saa automatisoitua helppoja tehtäviä, sillä pystyy automatisoimaan konetehtäviä, markkinointia, ja ihan mitä vaan mieleen tulee. Mutta pitää muistaa ettei ikinä syötä keinoälylle dataa, jota et haluaisi kenenkään muun näkevän.
 
 ### 3.2. GitHub Copilot
 
@@ -56,7 +54,8 @@ Tekoäly siirtyy kokoajan enemmän yksinkertaisten kysymyksien vastaamisesta kok
 Suosittelen lämpimästi, että opiskelijat testaa ainakin yhtä tekoälyavustajaa, kuten Clauda, Grokia tai ChatGPT:tä. Koodiavustajaksi esimerkiksi Github Copilot. Niiden kanssa voi suunnitella ja toteuttaa yksin tunnissa projekteja jotka olisivat ennen vaatineet 4 hengen ryhmän ja useita tunteja yhdessä tekemistä. EU:n Tekoälysäädösten perusajatus on hyvä tuntea. Pitäkää myös mielessä yksityisyys, tekijänoikeudet ja tekoälyn hallusinointi, koska työpaikoissa niistä puhutaan yhä useammin.
 
 ## 5. Lähteet
-- [Datakeskukset] https://selkosanomat.fi/suomi/google-rakentaa-suomeen-suuria-datakeskuksia/
+
+- [Selkosanomat: Google rakentaa Suomeen suuria datakeskuksia](https://selkosanomat.fi/suomi/google-rakentaa-suomeen-suuria-datakeskuksia/)
 - [Elements of AI: ilmainen tekoälykurssi](https://www.elementsofai.fi/)
 - [Euroopan komissio: tekoälysäädös](https://digital-strategy.ec.europa.eu/fi/policies/regulatory-framework-ai)
 - [Stanford AI Index -raportti](https://aiindex.stanford.edu/)
