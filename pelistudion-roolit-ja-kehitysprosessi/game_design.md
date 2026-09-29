@@ -6,17 +6,11 @@
 
 ## 2. Johdanto
 
-<Selitys, mistä artikkelin aiheessa on kyse>
-
 Tässä dokumentissa kerrotaan pelinkehityksen design vaiheesta ja sen eri tavoista ja haasteista.
 Jokaisen tuotoksen alussa tiimi kokoontuu yhteen miettimään minkälainen pelin design tulee olemaan.
 Designilla tarkoitetaan teemaa, yleistä tarinaa, onko peli 2d vai 3d, pelataanko ekassa vai kolmannessa persoonassa.
 
-<Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
-
 Pelin designaus on jokaisen tiimin jäsenen rooli jollain tapaa. Pelin design on todella tärkeä ensimmäinen vaihe pelin aloittamisessa, ilman sitä ei ole minkäänlaista päämäärää.
-
-<!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
 
 ## 3. Työkaluja
 
