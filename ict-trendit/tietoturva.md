@@ -39,13 +39,17 @@ verkkosivulla sinulle sanotaan.
 
 ### 3.2. Tietoturva koodajan näkökulmasta
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
+Koodarin täytyy miettiä muitakin asioita, kuin vain omia salasanojaan.
+Suunnitellessa sovelluksia tai nettisivuja, täytyy ottaa huomioon myös sen
+mahdolliset käyttäjät. Omien tietojen suojaamisen lisäksi on suojattava myös
+palvelimia ja tietokantoja.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
-
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
-
-<!-- 3.3. , 3.4. jne. tarvittaessa -->
+Vuosien varrella koodareiden tietoturva on kehittynyt entisestään. Aiemmin
+ongelmia korjattiin yleensä niiden ilmetessä. Nykypäivänä tehdään paljon
+tietoturva testejä, niin manuaalisesti kuin myös automatisoidusti. Koodarin
+onkin hyvä tietää millaisia erilaisia kyberuhkia on ja miten suojata omat
+ohjelmansa niiltä. On siis hyvä pysyä perillä alan uusista trendeistä, uhkista
+ja päivittää työtään jatkuvasti uusien haavoittuvuuksien löytyessä.
 
 ## 4. Yhteenveto
 
