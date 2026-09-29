@@ -1,4 +1,4 @@
-# <Artikkelin nimi>
+# Game Design
 
 ## 1. Tiivistelmä
 
