@@ -1,8 +1,8 @@
-# <Artikkelin nimi>
+# Kyberuhat ja Tietoturvan merkitys
 
 ## 1. Tiivistelmä
 
-<Lyhyt, yhden kappaleen tiivistelmä aiheesta>
+Tietoturva on erittäin tärkeä osa koko ICT-alaa. Lyhyesti tietoturva on tietojen suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia.
 
 ## 2. Johdanto
 
