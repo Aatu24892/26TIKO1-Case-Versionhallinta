@@ -12,8 +12,6 @@ Designilla tarkoitetaan teemaa, yleistä tarinaa, onko peli 2d vai 3d, pelataank
 
 Pelin designaus on jokaisen tiimin jäsenen rooli jollain tapaa. Pelin design on todella tärkeä ensimmäinen vaihe pelin aloittamisessa, ilman sitä ei ole minkäänlaista päämäärää.
 
-<!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
-
 ## 3. Työkaluja
 
 Pelisuunnitteluun käytetään monenlaisia työkaluja. Tässä dokumentissa käydään läpi muutamia yleisiä työkaluja.
@@ -32,7 +30,7 @@ Unity on Unity Technologies kehittämä pelimoottori, joka julkaistiin vuonna 20
 
 ### 3.2. Blender
 
-blender
+Blender on ilmainen avoimenlähdekoodin 3D-mallinnusohjelma. Pelisuunnittelussa sitä voidaan käyttää esim. hahmojen, esineiden ja ympäristöjen mallintamiseen ja teksturointiin. Blenderillä voidaan myös tehdä animaatioita, tekstuureja ja visuaalisia effektejä. Valmiit 3D-mallit voidaan viedä esimerkiksi Unityyn tai Unreal Engin
 
 ### 3.3. Photoshop
 
@@ -41,16 +39,14 @@ Photoshop kuuluu Creative Cloud pakettiin, jota Adobe myy kuukausimaksulla. Siin
 
 ### 3.4. Figma
 
-figma
+Figma on suunnittelutyökalu, sitä käytetään erityisesti käyttöliittymän suunnitteluun. Pelisuunnittelussa Figmalla voi esim. tehdä pelin valikoita, nappeja, HUD -elementtejä ja muita osia. Sen avulla pystyy myös tekemään yksinkertaisia prototyyppejä. Sillä käytännössä pystyy myös suunnittelemaan yksinkertaista vektorigrafiikka peliä varten.
 
 ## 4. Yhteenveto
 
-<Omat johtopäätökset ja suositukset>
+Pelisuunnittelu on tärkeä osa pelin kehittämistä. Se luo pohjan koko pelille ja antaa päämäärää. Hyvin tehty suunnittelu helpottaa kehittämistä ja vähentää ongelmia myöhemmässä vaiheessa.
 
 ## 5. Lähteet
 
-- [Unity wikipedia](https://en.wikipedia.org/wiki/Unity_(game_engine))
+- [Unity wikipedia](<https://en.wikipedia.org/wiki/Unity_(game_engine)>)
+- [Figma wikipedia](https://en.wikipedia.org/wiki/Figma)
 - [Adobe Photoshop wikipedia](https://en.wikipedia.org/wiki/Adobe_Photoshop)
-- <jne>
-
-<!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
