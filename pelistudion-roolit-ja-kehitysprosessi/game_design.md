@@ -43,7 +43,7 @@ Figma on suunnittelutyökalu, sitä käytetään erityisesti käyttöliittymän 
 
 ## 4. Yhteenveto
 
-<Omat johtopäätökset ja suositukset>
+Pelisuunnittelu on tärkeä osa pelin kehittämistä. Se luo pohjan koko pelille ja antaa päämäärää. Hyvin tehty suunnittelu helpottaa kehittämistä ja vähentää ongelmia myöhemmässä vaiheessa.
 
 ## 5. Lähteet
 
