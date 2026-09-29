@@ -2,7 +2,12 @@
 
 ## 1. Tiivistelmä
 
-Tietoturva on erittäin tärkeä osa koko ICT-alaa, koska ilman sitä rikolliset tai muut tahot voisivat toimia aivan vapaasti. Lyhyesti tietoturva on tietojen suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia. Kyberuhat ovat niitä uhkia/vaaroja joita vastaan me ICT-alalla yritämme suojautua tietoturvan avulla. Tämä tarkoittaa esimerkiksi palomuureja, virustorjuntaa tai vahvoja salasanoja.
+Tietoturva on erittäin tärkeä osa koko ICT-alaa, koska ilman sitä rikolliset
+tai muut tahot voisivat toimia aivan vapaasti. Lyhyesti tietoturva on tietojen
+suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia.
+Kyberuhat ovat niitä uhkia/vaaroja joita vastaan me ICT-alalla yritämme
+suojautua tietoturvan avulla. Tämä tarkoittaa esimerkiksi palomuureja,
+virustorjuntaa tai vahvoja salasanoja.
 
 ## 2. Johdanto Tietoturvaan
 
@@ -13,19 +18,26 @@ Tietoturvaa on erilaista koodarin ja tavallisen henkilön näkökulmista.
 Tavalliselle henkilölle se voi olla vahvoja salasanoja, kun taas koodari miettii
 miten käyttäjien salasant tallennetaan turvallisesti.
 
-## 3. Työkaluja
+## 3. Tietoturva koodaajalle ja Tavalliselle henkilölle
 
-<Aiheeseen liittyvät ohjelmat, menetelmät, verkkosivut tms.>
+Millaisia ovat eri näkökulmat tietoturvaan? Ammattilaisella ja perus yksityishenkilöllä.
+Pääosin ehkä se, että koodari rakentaa tietoturvaa järjestelmään
+ja yksityishenkilö keskittyy oman datansa suojaamiseen.
 
-### 3.1. <Ohjelma 1>
+### 3.1. Tavallisen henkilön tietoturva
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
+Tavallinen yksityishenkilö, kuten vaikka lähikaupan myyjä ei luultavasti ole
+koodari. Kun puhumme hänen tietoturvasta, voimme miettiä asioita kuten esim.
+Vahvat salasanat, se että ei klikkaile tai avaa epäilyttäviä tiedostoja tai
+linkkejä ja vaikkapa kaksivaiheisen tunnistamisen käyttö tileillänsä.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
+Kaikkien on hyvä olla hereillä siitä, millaiset asiat voivat uhata heidän
+tietoturvaansa ja erilaisia keinoja miten suojata itseään niiltä. Yleensä
+tähän riittää perus järjenkäyttö. Sinulta saatetaan yrittää kalastella tietoja,
+jolloin olet itse vastuussa siitä uskotko sen mitä epäilyttävässä viestissä tai
+verkkosivulla sinulle sanotaan.
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
-
-### 3.2. <Ohjelma 2>
+### 3.2. Tietoturva koodajan näkökulmasta
 
 <Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
 
