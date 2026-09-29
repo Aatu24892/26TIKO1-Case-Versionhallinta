@@ -40,7 +40,13 @@ Tekoälymallit, kuten ChatGPT, Claude ja Gemini, ovat tekstiä, koodia ja analyy
 
 ## 5. Lähteet
 
-- [1st Link Text](URL)
-- [2nd Link Text](URL)
-- <jne>
-<!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
+- [Elements of AI: ilmainen tekoälykurssi](https://www.elementsofai.fi/)
+- [Euroopan komissio: tekoälysäädös](https://digital-strategy.ec.europa.eu/fi/policies/regulatory-framework-ai)
+- [Stanford AI Index -raportti](https://aiindex.stanford.edu/)
+- [Vaswani ym. (2017): Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [PyTorch](https://pytorch.org/)
+- [Hugging Face](https://huggingface.co/)
+
