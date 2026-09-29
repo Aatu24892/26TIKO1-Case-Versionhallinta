@@ -16,7 +16,7 @@ Työ tehdään pareissa, joissa jokainen pari tekee 2 annetuista aiheista
 **Lalli** & **Samira** Aiheet 2&3
 
 **Aihe 3.** Miten avoimen lähdekoodin projekteihin osallistutaan? (kontribuointi.md)  
-**Tiedoston nimi** kontribuointi.md
+**Tiedoston nimi** kontribuointi.md  
 **Lalli** & **Samira** Aiheet 2&3  
 
 **Aihe 4.** Yritykset ja Open Source -bisnesmalli  
