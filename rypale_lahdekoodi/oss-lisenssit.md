@@ -8,6 +8,5 @@ ohjelmistoa aiempien yksityisten lisenssien luomassa ympäristössä.
 
 OSS-lisenssit ja ilmaiset ohjelmisto lisenssit eroavat toisistaan
 siten, että OSS-ohjelmistoa voi kehittää kuka tahansa.  
- Ilmainen
-ohjelmisto lisenssi antaa luvan vain muokkaamaan ja jakamaan sitä
+Ilmainen ohjelmisto lisenssi antaa luvan vain muokkaamaan ja jakamaan sitä
 ohjelmistoa, ei kehittämään alkuperäistä.
