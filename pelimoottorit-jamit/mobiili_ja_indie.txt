@@ -1,0 +1,10 @@
+
+# Miten Unity ja C# mobiili näkyvat Indie-tuotannoissa
+
+## Indie-tuotantojen tausta
+
+
+
+## C# historia
+
+C# (si sharp) on Microsoftin kehittämä ohjelmontikieli, joka oli . Tässä kielessä on todella paljon ominaisuuksia
