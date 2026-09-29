@@ -37,4 +37,10 @@
 ## 4. Yhteenveto
 
 <Omat johtopäätökset ja suositukset>
+
+## 5. Lähteet
+
+- [1st Link Text](URL)
+- [2nd Link Text](URL)
+- <jne>
 <!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
