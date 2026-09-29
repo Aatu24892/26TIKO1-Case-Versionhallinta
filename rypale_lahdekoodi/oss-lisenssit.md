@@ -11,11 +11,11 @@ siten, että OSS-ohjelmistoa voi kehittää kuka tahansa. Ilmainen
 ohjelmisto lisenssi antaa luvan vain muokkaamaan ja jakamaan sitä
 ohjelmistoa, ei kehittämään alkuperäistä.
 
-## OS lisenssi tyypit
+## OS-lisenssi tyypit
 
-OS lisenssit ovat jaettu kahteen eri päätyyppiin. Salliva
+OS-lisenssit ovat jaettu kahteen eri päätyyppiin. Salliva
 (Eng. Permissive), joka perustuu akateemisiin luomuksiin, ja
-Copyleft, joka tulee ilmaisohjelmisto puolelta. Molemmat antavat luvan
+Copyleft, joka tulee ilmaisohjelmiston puolelta. Molemmat antavat luvan
 muokkaa ja jakaa ohjelmistoa, mutta Copyleft vaatii johdannaiset
 projektit olemaan samankaltaisen lisenssin alla ja jakamaan
 lähdekoodinsa.
