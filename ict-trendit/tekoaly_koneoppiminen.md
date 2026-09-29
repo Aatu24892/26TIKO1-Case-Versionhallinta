@@ -2,7 +2,7 @@
 
 ## 1. Tiivistelmä
 
-Tekoälymallit, kuten ChatGPT, Claude ja Gemini, ovat tekstiä, koodia ja analyysiä kirjottavia keinöälyjä, joilla pystyy myös tekemään videoita ja kuvia esim. Pixverse, Higgsfield. Uudet mallit pystyvät myös tekemään itsenäisesti asioita mcp avulla esim. hallitsemaan tietokonetta. Tekoäly on
+Tekoälymallit, kuten ChatGPT, Claude ja Gemini, ovat tekstiä, koodia ja analyysiä kirjottavia keinöälyjä, joilla pystyy myös tekemään videoita ja kuvia esim. Pixverse, Higgsfield. Uudet mallit pystyvät myös tekemään itsenäisesti asioita mcp avulla esim. hallitsemaan tietokonetta. Tekoäly on muuttanut työmarkkinaa huomattavasti, joista suurimpina aloina on ohjelmistokehitys, web-koodaus, sillä tekoälyllä luotuja ohjelmia ja nettisivuja on luodaan päivässä enemmän kun aurajoessa virtaa vettä. Isoimpana ongelmana tällä hetkellä asiassa on iso sähkön kulutus, joka johtuu datakeskuksien suuresta sähkön tarpeesta. Suomeen olla rakentamassa uusia datakeskuksia, jotka vaatisi olkiluoto 3 koko vuosittais sähkön.
 
 ## 2. Johdanto
 
@@ -39,14 +39,8 @@ Tekoälymallit, kuten ChatGPT, Claude ja Gemini, ovat tekstiä, koodia ja analyy
 <Omat johtopäätökset ja suositukset>
 
 ## 5. Lähteet
-
-- [Elements of AI: ilmainen tekoälykurssi](https://www.elementsofai.fi/)
-- [Euroopan komissio: tekoälysäädös](https://digital-strategy.ec.europa.eu/fi/policies/regulatory-framework-ai)
-- [Stanford AI Index -raportti](https://aiindex.stanford.edu/)
-- [Vaswani ym. (2017): Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [ChatGPT](https://chatgpt.com/)
-- [Claude](https://claude.ai/)
-- [GitHub Copilot](https://github.com/features/copilot)
-- [PyTorch](https://pytorch.org/)
-- [Hugging Face](https://huggingface.co/)
-
+https://selkosanomat.fi/suomi/google-rakentaa-suomeen-suuria-datakeskuksia/
+- [1st Link Text](URL)
+- [2nd Link Text](URL)
+- <jne>
+<!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
