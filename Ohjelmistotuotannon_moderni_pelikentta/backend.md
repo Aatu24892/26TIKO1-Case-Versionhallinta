@@ -1,5 +1,10 @@
 # Backend-kehitys, palvelinteknologiat ja tietokannat
 
-## Backend-kehitys tarkoittaa sovelluksen tai nettisivuston osaa jota ihmisen silmä ei näe.  Eli näin lyhyestti sanottuna Backend tarkoittaa koodia joka suorittaa kaikki sivuston funktiot, kaiken visualisen takana. Plavelimet mm. käyttävät backend teknologiaa
+## Backend-kehitys
+Backend on sovelluksen tai verkkosivuston näkymätön puoli, sen "konehuone". Kun painat nappia, kirjaudut sisään tai teet tilauksen, backend hoitaa taustalla varsinaisen työn: se käsittelee pyynnön, suorittaa logiikan ja palauttaa vastauksen. Käyttäjä näkee vain lopputuloksen.
 
-## Tietokannat pitävät sovelluksien datan pysyvästti. Eri sivustot tai sovellukset voivat pyytää dataa täältä ja käyttää sitä.
+## Palvelinteknologiat
+Backend-koodi pyörii palvelimilla, jotka ovat jatkuvasti päällä ja vastaavat käyttäjien pyyntöihin ympäri vuorokauden. Palvelimet voivat olla omia koneita tai pilvipalveluja, kuten AWS tai Azure.
+
+## Tietokannat
+Tietokannat ovat sovelluksen muisti. Ne säilyttävät datan, kuten käyttäjätiedot, tilaukset ja viestit, pysyvästi tallessa. Sovellukset ja sivustot hakevat tietokannasta dataa tarvittaessa ja tallentavat sinne uutta.
