@@ -1,10 +1,12 @@
 
 # Dokumentaatiota avoimesta lähdekoodista
 
-Tämä hakemisto sisältää dokumentaatiota avoimesta lähdekoodista, jonka on kirjoittanut Tiko1 study grouppi "Rypälle".
+Tämä hakemisto sisältää dokumentaatiota avoimesta lähdekoodista,
+jonka on kirjoittanut Tiko1 study grouppi "Rypälle".
 
 Työ tehdään pareissa, joissa jokainen pari tekee 2 annetuista aiheista.  
-Parittomilla ryhmillä esim. viiden hengen ryhmällä pariton jäsen saa tehdä muita asioita, kuten oikeinkirjoituksen tarkistuksen.
+Parittomilla ryhmillä esim. viiden hengen ryhmällä
+pariton jäsen saa tehdä muita asioita, kuten oikeinkirjoituksen tarkistuksen.
 
 ## Aiheet ja työnjako
 
