@@ -6,17 +6,11 @@
 
 ## 2. Johdanto
 
-<Selitys, mistä artikkelin aiheessa on kyse>
-
 Tässä dokumentissa kerrotaan pelinkehityksen design vaiheesta ja sen eri tavoista ja haasteista.
 Jokaisen tuotoksen alussa tiimi kokoontuu yhteen miettimään minkälainen pelin design tulee olemaan.
 Designilla tarkoitetaan teemaa, yleistä tarinaa, onko peli 2d vai 3d, pelataanko ekassa vai kolmannessa persoonassa.
 
-<Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
-
 Pelin designaus on jokaisen tiimin jäsenen rooli jollain tapaa. Pelin design on todella tärkeä ensimmäinen vaihe pelin aloittamisessa, ilman sitä ei ole minkäänlaista päämäärää.
-
-<!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
 
 ## 3. Työkaluja
 
@@ -36,24 +30,23 @@ Unity on Unity Technologies kehittämä pelimoottori, joka julkaistiin vuonna 20
 
 ### 3.2. Blender
 
-blender
+Blender on ilmainen avoimenlähdekoodin 3D-mallinnusohjelma. Pelisuunnittelussa sitä voidaan käyttää esim. hahmojen, esineiden ja ympäristöjen mallintamiseen ja teksturointiin. Blenderillä voidaan myös tehdä animaatioita, tekstuureja ja visuaalisia effektejä. Valmiit 3D-mallit voidaan viedä esimerkiksi Unityyn tai Unreal Engin
 
 ### 3.3. Photoshop
 
-photoshop
+Photoshop on Adoben tekemä kuvan muokkaus työkalu, jolla voi nimensä mukaisesti muokata kuvia kaikilla eri tavoilla. Se julkaistiin 1990 ja on todella suuressa käytössä nykypäivänä. Se kasvoi niin suureksi, että siitä muodostui uusi slangi sana photoshoppaus ja sitä alettiin käyttämään kuvanmuokkauksen tilalla, vaikka siihen ei olisi käytetty Photoshop ohjelmaa.
+Photoshop kuuluu Creative Cloud pakettiin, jota Adobe myy kuukausimaksulla. Siinä tulee mukana eri määrä sovelluksia riippuen siitä minkä paketin tilaa.
 
 ### 3.4. Figma
 
-figma
+Figma on suunnittelutyökalu, sitä käytetään erityisesti käyttöliittymän suunnitteluun. Pelisuunnittelussa Figmalla voi esim. tehdä pelin valikoita, nappeja, HUD -elementtejä ja muita osia. Sen avulla pystyy myös tekemään yksinkertaisia prototyyppejä. Sillä käytännössä pystyy myös suunnittelemaan yksinkertaista vektorigrafiikka peliä varten.
 
 ## 4. Yhteenveto
 
-<Omat johtopäätökset ja suositukset>
+Pelisuunnittelu on tärkeä osa pelin kehittämistä. Se luo pohjan koko pelille ja antaa päämäärää. Hyvin tehty suunnittelu helpottaa kehittämistä ja vähentää ongelmia myöhemmässä vaiheessa.
 
 ## 5. Lähteet
 
-- [Unity wikipedia](https://en.wikipedia.org/wiki/Unity_(game_engine))
-- [2nd Link Text](URL)
-- <jne>
-
-<!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
+- [Unity wikipedia](<https://en.wikipedia.org/wiki/Unity_(game_engine)>)
+- [Figma wikipedia](https://en.wikipedia.org/wiki/Figma)
+- [Adobe Photoshop wikipedia](https://en.wikipedia.org/wiki/Adobe_Photoshop)

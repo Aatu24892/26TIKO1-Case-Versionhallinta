@@ -6,3 +6,5 @@ aihe kaksi
 
 ### Kolmas
 kolmonen
+
+## Oot aika huono cs pelaaja = true

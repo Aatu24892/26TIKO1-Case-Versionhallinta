@@ -1,0 +1,1 @@
+# Laadunvarmistus (QA) ja automaattinen testaus
