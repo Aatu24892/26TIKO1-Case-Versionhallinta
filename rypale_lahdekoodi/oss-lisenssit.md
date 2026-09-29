@@ -15,12 +15,6 @@ ohjelmistoa, ei kehittämään alkuperäistä.
 
 OS-lisenssit ovat jaettu kahteen eri päätyyppiin. Salliva
 (Eng. Permissive), joka perustuu akateemisiin luomuksiin, ja
-<<<<<<< HEAD
-Copyleft, joka tulee ilmaisohjelmiston puolelta. Molemmat antavat luvan
-muokkaa ja jakaa ohjelmistoa, mutta Copyleft vaatii johdannaiset
-projektit olemaan samankaltaisen lisenssin alla ja jakamaan
-lähdekoodinsa.
-=======
 Copyleft, joka tulee ilmaisohjelmisto puolelta. Molemmat antavat luvan
 muokkaa ja jakaa ohjelmistoa. Tyypillisesti vaativat
 lähde viittauksia ja hylkäävät laillisen vastuun. Lisäksi
@@ -32,11 +26,20 @@ lisenssin alla ja jakamaan lähdekoodinsa.
 ### MIT-lisenssi
 
 Salliva lisenssi joka nimensä mukaan on alkuperäisin Massachusets
-Institute of Technology:sta. Voi käyttää myös omistusoikeutetussa
+Institute of Technology:sta. Sitä voi käyttää myös omistusoikeutetussa
 ohjelmistossa, kunhan kaikkien kopioiden mukana tulee kopio MIT-
 lisenssin ehdoista ja tekijänoikeus ilmoitus.
 
 ### Apache-lisenssi
 
+Apache Software Foundation:in (ASF) luoma salliva ohjelmistolisenssi. Voi
+jakaa, muokata ja jakaa muokattuja versioita vapaasti lisenssin ehtojen alla.
+Vaikka ASF loi lisenssin omia projektejaan varten monet muut käyttävät
+sitä.
+
 ### GNU GPL-lisenssi
->>>>>>> 19f93a0b23811f2762250c3641af1fee139c4a65
+
+GNU General Public License (tai GPL lyhyesti) on ensimmäinen julkinen
+Copyleft-lisenssi. Se on suuressa julkisessa käytössä, eikä vaadi lisenssin
+alla luodun ohjelmiston laajaa jakamista. GPL-linsenssi perhe on suurimpia
+maailmassa. Esimerkiksi Linux-käyttöjärjestelmäydin on GPL-linsessin alla.
