@@ -8,3 +8,6 @@ Backend-koodi pyörii palvelimilla, jotka ovat jatkuvasti päällä ja vastaavat
 
 ## Tietokannat
 Tietokannat ovat sovelluksen muisti. Ne säilyttävät datan, kuten käyttäjätiedot, tilaukset ja viestit, pysyvästi tallessa. Sovellukset ja sivustot hakevat tietokannasta dataa tarvittaessa ja tallentavat sinne uutta.
+
+## ohjelmointikielet
+Backendiin käytetään montaa eri ohjelmointikieltä, kuten esimerkiksi Node.js, Javascript, python tai GO.
