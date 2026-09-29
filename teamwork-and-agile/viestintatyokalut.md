@@ -3,7 +3,7 @@
 
 ## 1. Tiivistelmä
 
-
+Viestintätyökaluja käytetään viestintään C:
 
 ## 2. Johdanto
 
@@ -29,7 +29,8 @@ Teams on Microsoftin luoma ilmainen viestintätyökalu, jota suosivat etenkin is
 ## 4. Yhteenveto
 <Omat johtopäätökset ja suositukset>
 
-##Lähteitä:
+## 5. Lähteet
+
 - https://www.atlassian.com/ (Jira)
 - viralliset sivut jira, slack, teams + vertaisarvioidut lehdet ja opinnäytetyö
 - https://andor.tuni.fi/discovery/fulldisplay?docid=alma9911584308005973&context=L&vid=358FIN_TAMPO:VU1&lang=fi&search_scope=My_inst_and_CI_extended_search&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,jira%20slack&offset=0 !!!!
