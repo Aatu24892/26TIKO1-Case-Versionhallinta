@@ -14,12 +14,11 @@ ohjelmistoa, ei kehittämään alkuperäistä.
 ## OS-lisenssi tyypit
 
 OS-lisenssit ovat jaettu kahteen eri päätyyppiin. Salliva
-(Eng. Permissive), joka perustuu akateemisiin luomuksiin, ja
-Copyleft, joka tulee ilmaisohjelmisto puolelta. Molemmat antavat luvan
-muokkaa ja jakaa ohjelmistoa. Tyypillisesti vaativat
-lähde viittauksia ja hylkäävät laillisen vastuun. Lisäksi
-Copyleft vaatii johdannaiset projektit olemaan samankaltaisen
-lisenssin alla ja jakamaan lähdekoodinsa.
+(Eng. Permissive), joka perustuu akateemisiin luomuksiin, ja Copyleft,
+joka tulee ilmaisohjelmisto puolelta. Molemmat antavat luvan muokkata
+ja jakaa ohjelmistoa. Tyypillisesti vaativat lähde viittauksia ja
+hylkäävät laillisen vastuun. Lisäksi Copyleft vaatii johdannaiset
+projektit olemaan samankaltaisen lisenssin alla ja jakamaan lähdekoodinsa.
 
 ## Esimerkkejä
 
