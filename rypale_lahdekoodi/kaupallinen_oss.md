@@ -1,8 +1,11 @@
 # Yritykset ja Open Source -bisnesmalli
+
 ## 1. Yrityksistä
+
 kerro jotain Open Source-yrityksistä yleisesti
 
 ## 2. Yrityksistä lisää
+
 lisää juttui, vaikkapa listaa yleisimpii yrityksii
 
 ## 3. Open Source -bisnesmalli yleisesti ja sen kaupallistaminen
