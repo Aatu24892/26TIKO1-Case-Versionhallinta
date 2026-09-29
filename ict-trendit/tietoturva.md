@@ -2,12 +2,7 @@
 
 ## 1. Tiivistelmä
 
-Tietoturva on erittäin tärkeä osa koko ICT-alaa, koska ilman sitä
-rikolliset tai muut tahot voisivat toimia aivan vapaasti. Lyhyesti tietoturva
-on tietojen suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia.
-Kyberuhat ovat niitä uhkia/vaaroja joita vastaan me ICT-alalla yritämme
-suojautua tietoturvan avulla. Tämä tarkoittaa esimerkiksi palomuureja,
-virustorjuntaa tai vahvoja salasanoja.
+Tietoturva on erittäin tärkeä osa koko ICT-alaa, koska ilman sitä rikolliset tai muut tahot voisivat toimia aivan vapaasti. Lyhyesti tietoturva on tietojen suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia. Kyberuhat ovat niitä uhkia/vaaroja joita vastaan me ICT-alalla yritämme suojautua tietoturvan avulla. Tämä tarkoittaa esimerkiksi palomuureja, virustorjuntaa tai vahvoja salasanoja.
 
 ## 2. Johdanto
 
@@ -83,21 +78,52 @@ Virukset leviävät ympäri konetta, ja viruksesta riippuen, käynnistävät tuh
 
 ### 3.2. Troijalaiset
 
-Troijalaiset aktivoituvat, kun uhri avaa saastuneen sovelluksen.
+Troijalaiset aktivoituvat, kun uhri avaa saastuneen sovelluksen. Nämä voivat olla vaarallisia, esimerkiksi ArcticBomb -troijalaisen kohdalla.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
+### 3.3 Rootkitit
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
+Rootkitit antavat järjestelmävalvojan oikeudet hyökkääjälle, joka voi sitten tehdä tuhojansa.
+
+### 3.4 Kryptolouhijat
+
+Kryptolouhijat saatuttavat tietokoneesti, ja käyttävät sen kaikki resurssit kryptovaluutan louhimiseen.
+
+### 3.5 Ransomwaret, eli lunnasohjelmat
+
+Lunnasohjelmat salaavat koneesti tiedostot maksua vastaan.
+
+### 3.6 Roguet
+
+Roguet yleensä teeskentelevät olevansa joitain muita sovelluksia, kuten virustentorjuntaohjelmia, kun todellisuudessa ne ovat haittaohjelmia.
+
+### 3.7 Vakoiluohjelmat
+
+Vakoiluohjelmat ottavat talteen uhriensa toimet, kuten näppäinpainamukset. Tällä keinolla saadaan myös pankkitietoja ylös.
+
+### 3.8 Madot
+
+Madot ovat haittaohjelmia, jotka leviävät mm. sähköpostien kautta.
 
 <!-- 3.3. , 3.4. jne. tarvittaessa -->
 
+## 4. Muita kyberuhkia
+
+* Tietokoneet, joita ei olla lukittu kun poistut työasemalta.
+* Heikko, tai helposti luettavissa ylöskirjoitettu salasana.
+* Palvelunestohyökkäykset (DDoS)
+* Ihmisen manipulointi
+
 ## 4. Yhteenveto
 
-<Omat johtopäätökset ja suositukset>
+Haittaohjelmia ja erilaisia kyberuhkia on monenlaisia.
+
+Kyberuhkia voi torjua käyttämällä erilaisia kyberturvallisuuden sovelluksia, kuten viruksentorjuntaohjelmaa, sekä tekemällä tiedostoista varmuuskopioita esim. pilvipalveluun ja/tai USB-tikulle, jossa on suojauskeino, esim. salasana.
+
+
 
 ## 5. Lähteet
 
-- [1st Link Text](URL)
-- [2nd Link Text](URL)
-- <jne>
+- [Yritysten yleisimmät kyberuhat](https://www.savelan.fi/yritysten-yleisimmat-kyberuhat/)
+- [Kyberuhat ja niiden aiheuttajat](https://peda.net/jyu/it/do/kkv/4kjna)
+- [Ei sinänsä lähde, mutta tässä on hyvä YouTube-kanava eri haittaohjelmista](https://www.youtube.com/@danooct1)
 <!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
