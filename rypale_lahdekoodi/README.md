@@ -6,7 +6,7 @@ Tämä hakemisto sisältää dokumentaatiota avoimesta lähdekoodista, jonka on 
 Työ tehdään pareissa, joissa jokainen pari tekee 2 annetuista aiheista.  
 Parittomilla ryhmillä esim. viiden hengen ryhmällä pariton jäsen saa tehdä muita asioita, kuten oikeinkirjoituksen tarkistuksen.
 
-## The topics and the division of work
+## Aiheet ja työnjako
 
 **Aiheisiin kuluu:**  
 **Aihe 1.** Mitä avoin lähdekoodi on ja miksi se on tärkeää?  

@@ -14,16 +14,15 @@ Viestintätyökaluja käytetään viestintään C:
 
 ## 3. Työkaluja
 
-### 3.1. Jira (tee linkki Jiran sivuille?)
+### 3.1. [Jira](https://www.atlassian.com/)
 
-##Jira (Atlassian):
-Suunnattu etenkin ohjelmistokehittäjille työnhallintaan. Tehtävien ja projektien seuranta, jäsennelty, historia. Tiketit, vastuuhenkilöt (tehtävät, bugit ym.) GitHub yhteensopiva, Tuki Scrumille ja Kanbanille. Tiimi pysyy helposti perillä siitä missä mennään. Kuka tekee ja mitä, mikä on kesken, million pitäisi olla valmista? Rajoitettu ilmaisversio pienille tiimeille..? Käytetään rinnakkain Slackin tai Teamsin kautta
+Jira on viestintätyökalu, joka on suunnattu etenkin ohjelmistokehittäjille työnhallintaan. Sen ansiosta tiimit pysyvät jatkuvasti kartalla siitä missä mennään. Jiran toimintamekanismi perustuu tiketteihin, eli tehtäviin ja bugreportteihin, joille voi määrätä vastuuhenkilöt. Eli Jira vastaa kysymyksiin siitä, kuka tekee ja mitä, sekä mikä on kesken ja million tulisi olla valmista. Se mahdollistaa tehtävien ja projektien sujuvan seurannan, säilyttää tikettihistorian sekä tekee tiedon jäsentelystä helppoa. Jira on GitHub yhteensopiva, ja tukee myös Scrumia sekä Kanbania. Jira on maksullinen, mutta siitä on rajoitettu ilmaisversio pienille tiimeille. Jiraa käytetään rinnakkain Slackin tai Teamsin kautta, jolloin kommunikaatio tapahtuu Slackissa tai Teamsissa ja itse projektinhallinta Jirassa.
 
-### 3.2. Slack
+### 3.2. [Slack](https://slack.com/)
 
-Slack on viestintätyökalu tiimeille ja työpaikkakäyttöön. Viestintä tapahtuu pääosin eri kanavissa sekä yksityisviestein, mutta Slackissa on myös videopuhelumahdollisuus. Ilmaisversio on ominaisuuksiltaan on rajoitettu, ja esimerkiksi viestit eivät säily ikuisesti. Se on suosittu etenkin teknologiayritysten parissa mm. laajojen lisäosien integraatiomahdollisuuksiensa ansiosta. Alusta on muun muassa yhteensopiva Jiran ja GitHubin kanssa.
+Slack on viestintätyökalu tiimeille ja työpaikkakäyttöön. Viestintä tapahtuu pääosin eri kanavissa sekä yksityisviestein, mutta Slackissa on myös videopuhelumahdollisuus. Ilmaisversio on ominaisuuksiltaan on rajattu, ja esimerkiksi viestit eivät säily ikuisesti. Se on suosittu etenkin teknologiayritysten parissa laajojen lisäosien integraatiomahdollisuuksiensa ansiosta. Alusta on yhteensopiva muun muassa Jiran ja GitHubin kanssa.
 
-### 3.3. Teams
+### 3.3. [Teams](https://microsoft.com/microsoft-teams/)
 
 Teams on Microsoftin luoma ilmainen viestintätyökalu, jota suosivat etenkin isot yritykset ja julkinen sektori. Sitä käytetään tiedostojen jakamiseen sekä tiimien väliseen kommunikaatioon chatin ja videopuheluiden avulla. Teamsissa on laaja Microsoft 365 yhteensopivuus.
 
@@ -32,8 +31,6 @@ Teams on Microsoftin luoma ilmainen viestintätyökalu, jota suosivat etenkin is
 
 ## 5. Lähteet
 
-- https://www.atlassian.com/ (Jira)
-- viralliset sivut jira, slack, teams + vertaisarvioidut lehdet ja opinnäytetyö
 - https://andor.tuni.fi/discovery/fulldisplay?docid=alma9911584308005973&context=L&vid=358FIN_TAMPO:VU1&lang=fi&search_scope=My_inst_and_CI_extended_search&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,jira%20slack&offset=0 !!!!
 - https://go-gale-com.libproxy.tuni.fi/ps/i.do?p=STND&u=tampere&id=GALE%7CA725811825&v=2.1&it=r&sid=summon
 - https://andor.tuni.fi/discovery/fulldisplay?docid=cdi_proquest_journals_2512915826&context=PC&vid=358FIN_TAMPO:VU1&lang=fi&search_scope=My_inst_and_CI_extended_search&adaptor=Primo%20Central&tab=Everything&query=any,contains,jira%20slack&offset=0 (https://doi.org/10.1088/1742-6596/1840/1/012031)
