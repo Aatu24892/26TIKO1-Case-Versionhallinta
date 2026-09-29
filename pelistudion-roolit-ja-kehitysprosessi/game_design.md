@@ -6,11 +6,17 @@
 
 ## 2. Johdanto
 
+<Selitys, mistä artikkelin aiheessa on kyse>
+
 Tässä dokumentissa kerrotaan pelinkehityksen design vaiheesta ja sen eri tavoista ja haasteista.
 Jokaisen tuotoksen alussa tiimi kokoontuu yhteen miettimään minkälainen pelin design tulee olemaan.
 Designilla tarkoitetaan teemaa, yleistä tarinaa, onko peli 2d vai 3d, pelataanko ekassa vai kolmannessa persoonassa.
 
+<Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
+
 Pelin designaus on jokaisen tiimin jäsenen rooli jollain tapaa. Pelin design on todella tärkeä ensimmäinen vaihe pelin aloittamisessa, ilman sitä ei ole minkäänlaista päämäärää.
+
+<!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
 
 ## 3. Työkaluja
 
@@ -18,7 +24,7 @@ Pelisuunnitteluun käytetään monenlaisia työkaluja. Tässä dokumentissa käy
 
 [Unity](#31-unity) - Pelimoottori, tukee 2D- ja 3D-pelejä
 
-[Blender](#32-blender) - D-mallintamiseen käytetty ohjelma
+[Blender](#32-blender) - 3D-mallintamiseen käytetty ohjelma
 
 [Photoshop](#33-photoshop) - Kuvankäsittelyohjelma
 
@@ -26,7 +32,7 @@ Pelisuunnitteluun käytetään monenlaisia työkaluja. Tässä dokumentissa käy
 
 ### 3.1. Unity
 
-unity
+Unity on Unity Technologies kehittämä pelimoottori, joka julkaistiin vuonna 2005 ja on edelleen käytössä toki paljon vähemmän heidän rahastus yrityksen takia. Unityssä käytettään c# koodaus kieltä. Sillä voi koodata 2D- tai 3D-pelejä suurimalle osalle peli alustoista, kuten tietokoneille, puhelimille ja VR laseille. Unityä voi käyttää myös simulaattoreiden ja 3D-karttojen tekemiseen eli muihinkin kuin pelien tekemiseen. Esimerkiksi Amerikan armeija käyttää sitä tähän tarkoitukseen.
 
 ### 3.2. Blender
 
@@ -46,7 +52,7 @@ figma
 
 ## 5. Lähteet
 
-- [1st Link Text](URL)
+- [Unity wikipedia](https://en.wikipedia.org/wiki/Unity_(game_engine))
 - [2nd Link Text](URL)
 - <jne>
 
