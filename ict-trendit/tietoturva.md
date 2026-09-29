@@ -53,14 +53,20 @@ ja päivittää työtään jatkuvasti uusien haavoittuvuuksien löytyessä.
 
 ## 4. Yhteenveto
 
-<Omat johtopäätökset ja suositukset>
+Vaikka molemmille yksityisen henkilön tietoturva on erittäin tärkeää,
+niin täytyy koodajan silti miettiä myös muiden tietoturvaa suunnitellessaan.
+Meidän on hyvä kaikkien pysyä ajan tasalla erilaisista kyberuhista maailmalla,
+vaikka emme olisikaan koodareita tai muita ICT-alan ammattilaisia. Meidän
+olisi myös hyvä ottaa selvää siitä miten tietojamme käsitellään.
+Paras tapa suojautua kaikilta uhilta on olla niistä tietoinen ja jos tämä
+ei ole mahdollista, niin pysyä tarkkana ja ajatella kahdesti ennenkuin tekee
+tai avaa jotakin.
 
 ## 5. Lähteet
 
-- [1st Link Text](URL)
-- [2nd Link Text](URL)
-- <jne>
-<!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
+- [Traficomin ohjeita](https://www.traficom.fi/fi/arjen-tietoturva/nain-pidat-huolta-tietoturvasta-kotona-ja-tyopaikalla)
+- [Tietoturvasta tietoa kehittäjille](https://kehittajille.suomi.fi/palvelut/digiturva/tietoturva/havainnointi-ja-valvonta)
+- [Tietoturvallinen Koodi](https://www.japo.fi/tietoturva-ja-ohjelmistokehitys-turvallinen-koodi-alusta-alkaen/)
 
 # Kyberuhat
 
@@ -87,7 +93,6 @@ Kyberuhkien rooli on saastuttaa tietokoneita, sekä tietoverkkoja joko maksimaal
 * Madot
 
 ### 3.1. Virukset
-
 
 Virukset saastuttavat tietokoneita replikoimalla itsensä ja kirjoittamalla koodinsa muihin ohjelmiin.
 
@@ -121,8 +126,6 @@ Vakoiluohjelmat ottavat talteen uhriensa toimet, kuten näppäinpainamukset. Tä
 
 Madot ovat haittaohjelmia, jotka leviävät mm. sähköpostien kautta.
 
-<!-- 3.3. , 3.4. jne. tarvittaessa -->
-
 ## 4. Muita kyberuhkia
 
 * Tietokoneet, joita ei olla lukittu kun poistut työasemalta.
@@ -136,11 +139,8 @@ Haittaohjelmia ja erilaisia kyberuhkia on monenlaisia.
 
 Kyberuhkia voi torjua käyttämällä erilaisia kyberturvallisuuden sovelluksia, kuten viruksentorjuntaohjelmaa, sekä tekemällä tiedostoista varmuuskopioita esim. pilvipalveluun ja/tai USB-tikulle, jossa on suojauskeino, esim. salasana.
 
-
-
 ## 5. Lähteet
 
 - [Yritysten yleisimmät kyberuhat](https://www.savelan.fi/yritysten-yleisimmat-kyberuhat/)
 - [Kyberuhat ja niiden aiheuttajat](https://peda.net/jyu/it/do/kkv/4kjna)
 - [Ei sinänsä lähde, mutta tässä on hyvä YouTube-kanava eri haittaohjelmista](https://www.youtube.com/@danooct1)
-<!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
