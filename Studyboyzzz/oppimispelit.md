@@ -6,3 +6,11 @@ Tulen kijoittamaan tänne jänniä juttuja peleistä koulutuksessa ja oppimisess
 - Historialliset pelit
 - Pelien hyödyt oppimisessa
 
+**ELÄMÄ ON VAAN LAIFFIA**
+
+- pelit on hyvästä koulutuksessa.
+
+- **Esim** : DUOLINGO
+
+
+
