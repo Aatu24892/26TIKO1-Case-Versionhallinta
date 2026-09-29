@@ -7,7 +7,7 @@ Backend on sovelluksen tai verkkosivuston näkymätön puoli, sen "konehuone". K
 Backend-koodi pyörii palvelimilla, jotka ovat jatkuvasti päällä ja vastaavat käyttäjien pyyntöihin ympäri vuorokauden. Palvelimet voivat olla omia koneita tai pilvipalveluja, kuten AWS tai Azure.
 
 ## Tietokannat
-Tietokannat ovat sovelluksen muisti. Ne säilyttävät datan, kuten käyttäjätiedot, tilaukset ja viestit, pysyvästi tallessa. Sovellukset ja sivustot hakevat tietokannasta dataa tarvittaessa ja tallentavat sinne uutta.
+Tietokannat ovat sovelluksen muisti. Ne säilyttävät datan, kuten käyttäjätiedot, tilaukset ja viestit, pysyvästi tallessa. Sovellukset ja sivustot hakevat tietokannasta dataa tarvittaessa ja tallentavat sinne uutta
 
 ## ohjelmointikielet
 Backendiin käytetään montaa eri ohjelmointikieltä, kuten esimerkiksi Node.js, Javascript, python tai GO.

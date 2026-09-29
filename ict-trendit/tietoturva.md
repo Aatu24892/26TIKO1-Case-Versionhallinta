@@ -2,37 +2,54 @@
 
 ## 1. Tiivistelmä
 
-Tietoturva on erittäin tärkeä osa koko ICT-alaa, koska ilman sitä rikolliset tai muut tahot voisivat toimia aivan vapaasti. Lyhyesti tietoturva on tietojen suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia. Kyberuhat ovat niitä uhkia/vaaroja joita vastaan me ICT-alalla yritämme suojautua tietoturvan avulla. Tämä tarkoittaa esimerkiksi palomuureja, virustorjuntaa tai vahvoja salasanoja.
+Tietoturva on erittäin tärkeä osa koko ICT-alaa, koska ilman sitä rikolliset
+tai muut tahot voisivat toimia aivan vapaasti. Lyhyesti tietoturva on tietojen
+suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia.
+Kyberuhat ovat niitä uhkia/vaaroja joita vastaan me ICT-alalla yritämme
+suojautua tietoturvan avulla. Tämä tarkoittaa esimerkiksi palomuureja,
+virustorjuntaa tai vahvoja salasanoja.
 
-## 2. Johdanto
+## 2. Johdanto Tietoturvaan
 
-<Selitys, mistä artikkelin aiheessa on kyse>
+Ehkä yksi tärkeimmistä asioista mitä ICT-alaan liittyy on tietoturva.
+Siitä ei yleensä puhuta paljoa ja moni ei välttämättä edes tiedä mitä se on.
 
-<Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
+Tietoturvaa on erilaista koodarin ja tavallisen henkilön näkökulmista.
+Tavalliselle henkilölle se voi olla vahvoja salasanoja, kun taas koodari miettii
+miten käyttäjien salasant tallennetaan turvallisesti.
 
-<!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
+## 3. Tietoturva koodaajalle ja Tavalliselle henkilölle
 
-## 3. Työkaluja
+Millaisia ovat eri näkökulmat tietoturvaan? Ammattilaisella ja perus yksityishenkilöllä.
+Pääosin ehkä se, että koodari rakentaa tietoturvaa järjestelmään
+ja yksityishenkilö keskittyy oman datansa suojaamiseen.
 
-<Aiheeseen liittyvät ohjelmat, menetelmät, verkkosivut tms.>
+### 3.1. Tavallisen henkilön tietoturva
 
-### 3.1. <Ohjelma 1>
+Tavallinen yksityishenkilö, kuten vaikka lähikaupan myyjä ei luultavasti ole
+koodari. Kun puhumme hänen tietoturvasta, voimme miettiä asioita kuten esim.
+Vahvat salasanat, se että ei klikkaile tai avaa epäilyttäviä tiedostoja tai
+linkkejä ja vaikkapa kaksivaiheisen tunnistamisen käyttö tileillänsä.
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
+Kaikkien on hyvä olla hereillä siitä, millaiset asiat voivat uhata heidän
+tietoturvaansa ja erilaisia keinoja miten suojata itseään niiltä. Yleensä
+tähän riittää perus järjenkäyttö. Sinulta saatetaan yrittää kalastella tietoja,
+jolloin olet itse vastuussa siitä uskotko sen mitä epäilyttävässä viestissä tai
+verkkosivulla sinulle sanotaan.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
+### 3.2. Tietoturva koodajan näkökulmasta
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
+Koodarin täytyy miettiä muitakin asioita, kuin vain omia salasanojaan.
+Suunnitellessa sovelluksia tai nettisivuja, täytyy ottaa huomioon myös sen
+mahdolliset käyttäjät. Omien tietojen suojaamisen lisäksi on suojattava myös
+palvelimia ja tietokantoja.
 
-### 3.2. <Ohjelma 2>
-
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
-
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
-
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
-
-<!-- 3.3. , 3.4. jne. tarvittaessa -->
+Vuosien varrella koodareiden tietoturva on kehittynyt entisestään. Aiemmin
+ongelmia korjattiin yleensä niiden ilmetessä. Nykypäivänä tehdään paljon
+tietoturva testejä, niin manuaalisesti kuin myös automatisoidusti. Koodarin
+onkin hyvä tietää millaisia erilaisia kyberuhkia on ja miten suojata omat
+ohjelmansa niiltä. On siis hyvä pysyä perillä alan uusista trendeistä, uhkista
+ja päivittää työtään jatkuvasti uusien haavoittuvuuksien löytyessä.
 
 ## 4. Yhteenveto
 

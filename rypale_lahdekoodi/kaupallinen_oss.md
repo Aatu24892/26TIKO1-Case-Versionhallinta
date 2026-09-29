@@ -1,3 +1,17 @@
-# Aihe 4. Yritykset ja Open Source -bisnesmalli
-## Otsikko
-fdsdfdsffdsdfs
+# Yritykset ja Open Source -bisnesmalli
+## 1. Yrityksistä
+aaa
+## 2. Yrityksistä lisää
+aaa
+## 3. Open Source -bisnesmalli yleisesti
+-
+-
+-
+-
+-
+## 4. Esimerkkejä Open Source -bisnesmalleista
+-
+-
+-
+-
+-
