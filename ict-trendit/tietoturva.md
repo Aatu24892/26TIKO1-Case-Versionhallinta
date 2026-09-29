@@ -2,7 +2,12 @@
 
 ## 1. Tiivistelmä
 
-Tietoturva on erittäin tärkeä osa koko ICT-alaa, koska ilman sitä rikolliset tai muut tahot voisivat toimia aivan vapaasti. Lyhyesti tietoturva on tietojen suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia. Kyberuhat ovat niitä uhkia/vaaroja joita vastaan me ICT-alalla yritämme suojautua tietoturvan avulla. Tämä tarkoittaa esimerkiksi palomuureja, virustorjuntaa tai vahvoja salasanoja.
+Tietoturva on erittäin tärkeä osa koko ICT-alaa, koska ilman sitä
+rikolliset tai muut tahot voisivat toimia aivan vapaasti. Lyhyesti tietoturva
+on tietojen suojaamista sellaisilta tahoilta, joilla ei ole siihen oikeuksia.
+Kyberuhat ovat niitä uhkia/vaaroja joita vastaan me ICT-alalla yritämme
+suojautua tietoturvan avulla. Tämä tarkoittaa esimerkiksi palomuureja,
+virustorjuntaa tai vahvoja salasanoja.
 
 ## 2. Johdanto
 
