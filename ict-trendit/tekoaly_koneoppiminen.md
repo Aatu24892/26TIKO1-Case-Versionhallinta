@@ -1,8 +1,8 @@
-# <Artikkelin nimi>
+#  Tekoälyn ja koneoppimisen nykytila
 
 ## 1. Tiivistelmä
 
-<Lyhyt, yhden kappaleen tiivistelmä aiheesta>
+Suuret kielimallit
 
 ## 2. Johdanto
 
