@@ -32,7 +32,9 @@ lisenssin alla ja jakamaan lähdekoodinsa.
 ### MIT-lisenssi
 
 Salliva lisenssi joka nimensä mukaan on alkuperäisin Massachusets
-Institute of Technology:sta.
+Institute of Technology:sta. Voi käyttää myös omistusoikeutetussa
+ohjelmistossa, kunhan kaikkien kopioiden mukana tulee kopio MIT-
+lisenssin ehdoista ja tekijänoikeus ilmoitus.
 
 ### Apache-lisenssi
 
