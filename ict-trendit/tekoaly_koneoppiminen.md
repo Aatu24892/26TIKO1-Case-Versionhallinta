@@ -14,15 +14,15 @@ Esimerkki työtehtäviä, joita on alettu korvaamaan tai automatisoimaan keinoä
 
 ## 3. Työkaluja
 
-<Aiheeseen liittyvät ohjelmat, menetelmät, verkkosivut tms.>
+Työkaluja löytyy monenlaisia, osa valmiita ja osan joutuu itse conffaan, promtaan tai asentaan. Toiset on ympäristöjä ja toiset kirjastoja. Näitä käyttämällä pystytään myös tekemään omia malleja.
 
-### 3.1. <Ohjelma 1>
+### 3.1. Claude Anthropic
+Claude Anthropic on todella suosittu ja kehuttu malli, joka on tällä hetkellä kärkikahinoissa mallikehityksessä. Sillä pystyy hallitsemaan tietokonetta, luomaan kuvia, kirjottaan koodia, tekemään analyysejä ja tekemään todella isoja projekteja, joissa pystyy hyödyntämään multi mcp tooleja, eli monen agentin saman aikaista käyttöä.
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
+Palvelua pystyy käyttämään selaimessa, koneella ja puhelimella. Sitä voi käyttää yksityishenkilö, yritys tai järjestö. Sen käyttönotto on todella helppo, se ladataan ja sitten se on käyttö valmis.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
+Claudella saa automatisoitua helppoja tehtäviä, sillä pystyy automatisoimaan konetehtäviä, markkinointia, ja ihan mitä vaan mieleen tulee. Mutta pitää muistaa ettei ikinä syötä keinoälylle dataa, jota et haluaisi kenenkään muun näkevän.
 
 ### 3.2. <Ohjelma 2>
 
