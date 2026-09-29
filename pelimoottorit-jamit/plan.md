@@ -1,8 +1,8 @@
 # Plaani
 
-1. Dokumentti: Unity ja C# mobiili yleisesti
+1. Dokumentti: Unity ja C# yleisesti
 
-2. Dokumentti: Miten Unity ja C# mobiili näkyvat Indie-tuotannoissa
+2. Dokumentti: Miten Unity ja C# näkyvat mobiili- ja Indie-tuotannoissa
 
 3. Dokumentti: Unreal Engine ja C++
 - Unreal engine historiaa
