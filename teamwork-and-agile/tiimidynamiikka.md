@@ -3,6 +3,9 @@
 ## 1. Tiivistelmä
 
 <Lyhyt, yhden kappaleen tiivistelmä aiheesta>
+
+<!-- Muista poistaa ohjetekstit lopuksi ;) -MM -->
+
 Psykologinen turvallisuus on kulmakivi tiimityössä. Se on jaettu käsitys ilmapiiristä, jossa on turvallista ottaa riskejä, tuoda uusia ideoita, esittää eriäviä mielipiteitä, epäonnistua, pyytää apua ja antaa palautetta. Tutkimukset osoittavat psykologisen turvallisuuden merkitsevän enemmän kuin yksilön taito, työkokemus tai ryhmän koko.
 
 ## 2. Johdanto

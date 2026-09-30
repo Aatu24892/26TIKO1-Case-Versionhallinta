@@ -12,5 +12,7 @@ Gitin ominaisuudet projektin haarautumiseen ja yhdistamiseen mahdollistavat rinn
 
 Gitin jakautettu luonne on ihanteellinen etätyöskentelyyn. Tiimin jäsenet voivat osallistua tehokkasti projektiin paikasta riippumatta. Keskitetyt repositoriot erilaisilla alustoilla (esim. GitHub, GitLab tai Bitbucket) mahdollistavat vaivattoman yhteistyön, varmistaen että tiimit voivat työskennellä yhdessä tehokkasti etänä.
 
+<!-- Hyvää jälkeä, no notes -MM -->
+
 ## Code review
 

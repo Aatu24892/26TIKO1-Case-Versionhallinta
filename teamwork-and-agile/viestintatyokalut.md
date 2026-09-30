@@ -12,11 +12,14 @@ Viestintätyökaluja käytetään viestintään C:
 •	haasteet (kommunikaation ongelmat, etätyöt (kuka tekee mitäkin, lack of communication, conflicting work processes))
 •	miten jira, slack, teams voidaan käyttää ratkaisemaan näitä ongelmia, mihin mitäkin sovellusta käytetään, millaiset yritykset käyttävät mitäkin
 
+<!-- Yllä on ilmeisesti copy-pastettu bullet pointit muualta? Käytä ennemmin Markdownin omaa muotoilua (esim. väliviiva). Tarkista myös esikatselusta, näyttääkö oikealta! -MM -->
+
 ## 3. Työkaluja
 
 ### 3.1. [Jira](https://www.atlassian.com/)
 
-Jira on viestintätyökalu, joka on suunnattu etenkin ohjelmistokehittäjille työnhallintaan. Sen ansiosta tiimit pysyvät jatkuvasti kartalla siitä missä mennään. Jiran toimintamekanismi perustuu tiketteihin, eli tehtäviin ja bugreportteihin, joille voi määrätä vastuuhenkilöt. Eli Jira vastaa kysymyksiin siitä, kuka tekee ja mitä, sekä mikä on kesken ja million tulisi olla valmista. Se mahdollistaa tehtävien ja projektien sujuvan seurannan, säilyttää tikettihistorian sekä tekee tiedon jäsentelystä helppoa. Jira on GitHub yhteensopiva, ja tukee myös Scrumia sekä Kanbania. Jira on maksullinen, mutta siitä on rajoitettu ilmaisversio pienille tiimeille. Jiraa käytetään rinnakkain Slackin tai Teamsin kautta, jolloin kommunikaatio tapahtuu Slackissa tai Teamsissa ja itse projektinhallinta Jirassa.
+Jira on viestintätyökalu, joka on suunnattu etenkin ohjelmistokehittäjille työnhallintaan. Sen ansiosta tiimit pysyvät jatkuvasti kartalla siitä missä mennään. Jiran toimintamekanismi perustuu tiketteihin, eli tehtäviin ja bugireportteihin, joille voi määrätä vastuuhenkilöt. Eli Jira vastaa kysymyksiin siitä, kuka tekee ja mitä, sekä mikä on kesken ja million tulisi olla valmista. Se mahdollistaa tehtävien ja projektien sujuvan seurannan, säilyttää tikettihistorian sekä tekee tiedon jäsentelystä helppoa. Jira on GitHub yhteensopiva, ja tukee myös Scrumia sekä Kanbania. Jira on maksullinen, mutta siitä on rajoitettu ilmaisversio pienille tiimeille. Jiraa käytetään rinnakkain Slackin tai Teamsin kautta, jolloin kommunikaatio tapahtuu Slackissa tai Teamsissa ja itse projektinhallinta Jirassa.
+<!-- korjattu bugreportti -> bugireportti -MM -->
 
 ### 3.2. [Slack](https://slack.com/)
 
@@ -35,3 +38,6 @@ Teams on Microsoftin luoma ilmainen viestintätyökalu, jota suosivat etenkin is
 - https://go-gale-com.libproxy.tuni.fi/ps/i.do?p=STND&u=tampere&id=GALE%7CA725811825&v=2.1&it=r&sid=summon
 - https://andor.tuni.fi/discovery/fulldisplay?docid=cdi_proquest_journals_2512915826&context=PC&vid=358FIN_TAMPO:VU1&lang=fi&search_scope=My_inst_and_CI_extended_search&adaptor=Primo%20Central&tab=Everything&query=any,contains,jira%20slack&offset=0 (https://doi.org/10.1088/1742-6596/1840/1/012031)
 - https://andor.tuni.fi/discovery/fulldisplay?docid=cdi_webofscience_primary_000937151900013CitationCount&context=PC&vid=358FIN_TAMPO:VU1&lang=fi&search_scope=My_inst_and_CI_extended_search&adaptor=Primo%20Central&tab=Everything&query=any,contains,jira%20slack&offset=0 (https://doi.org/10.1109/TSE.2022.3160873)
+
+<!-- Käytä näihin myös [artikkelin nimi](URL) -muotoa, niin näyttää selkeämmältä - MM-->
+<!-- Mahdollisesti ennemmin vain linkki itse artikkeliin, ei Andorin hakukoneeseen? -MM -->
