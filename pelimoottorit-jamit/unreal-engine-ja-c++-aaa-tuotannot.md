@@ -6,6 +6,9 @@ C++ käytetään, koska se on nopea, tehokas ja suorituskykyinen.
 Se ei toimi virtuaalikoneen päällä, kuten Java tai
 C#, mikä ei hidasta sen suorituskykyä.
 
+C++ antaa ohjelmoijalle enemmän vastuuta ja valtaa.
+Se mahdollistaa ohjelmoijan hallita, miten muistia ja resursseja käytetään.
+Tämän takia C++ on hyvä peliohjelmoinnissa, missä suorituskyvynhallinta on kriittistä.
 
 -ensimmäinen peli unreal enginellä: vuonna 1998 ensimmäisen persoonan ammuntapeli, Unreal
 
