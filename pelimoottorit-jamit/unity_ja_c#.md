@@ -1,4 +1,4 @@
-# Unity
+# Unity pelimoottori
 
 Unity on ilmainen ja erittäin suosittu pelimoottori.
 Se tukee 2D- ja 3D-pelinkehitystä. Unity 3D on kaikkein
@@ -16,7 +16,7 @@ paljon päivityksiä, joista uusin versio on Unity 6.
 Unity tuki aiemmin myös muita koodikieliä, mutta nykyään
 se tukee vain C#-kieltä.
 
-# C#
+# C# koodikieli
 
 C# on tehty moderniksi ja simppeliksi koodikieleksi, jonka
 tarkoituksena on toimia monipuolisesti eri tarkoituksiin.
