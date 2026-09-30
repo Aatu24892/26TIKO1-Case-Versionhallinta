@@ -2,10 +2,10 @@
 
 ## 1. Open Source -yrityksistä
 
-Avoimen lähdekoodin (Open Source) ohjelmia kehittävät monet yritykset. Suurin osa näistä yrityksistä toimivat voittoa tavoittelemattomina
-yrityksinä.
+Avoimen lähdekoodin (Open Source) ohjelmia kehittävät monet yritykset. Suurin
+osa näistä yrityksistä toimivat voittoa tavoittelemattomina yrityksinä.
 
-Esimerkkejä Open Source -yrityksistä:
+### Esimerkkejä Open Source -yrityksistä:
 
 - **Mozilla Foundation**: kehittänyt Mozilla Firefox
 -verkkoselaimen
