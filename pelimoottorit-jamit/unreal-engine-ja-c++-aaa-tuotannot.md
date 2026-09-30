@@ -15,7 +15,10 @@ Siksi suurin osa isoista pelimoottoreista, kuten Unreal Engine, on rakennettu C+
 ## Unreal Engine
 
 ### Ensimmäiset pelit Unreal Enginella
--ensimmäinen peli unreal enginellä: vuonna 1998 ensimmäisen persoonan ammuntapeli, Unreal
+Ensimmäinen peli unreal enginellä oli vuonna 1998 ensimmäisen persoonan ammuntapeli, Unreal.
+Gears of waria pidetääm esimmäisenä onnistuneena AAA tuotantona Unreal Enginellä.
+Se julkaistiin vuonna 2006.
+
 
 -modernit pelit unrealillä: Fortnite, Pugb, Black Myth: Wukong
 
