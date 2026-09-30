@@ -1,5 +1,11 @@
 # **Unreal-engine ja C++ AAA-tuotannoissa**
-## Miksi käytetään?
+## Miksi C++ käytetään isoissa tuotannoissa?
+Pelisuunnittelu on teknisesti vaativa ala.
+Jokaisella framella on pelatessa väliä, joten lagille ei ole varaa.
+C++ käytetään, koska se on nopea, tehokas ja suorituskykyinen.
+Se ei toimi virtuaalikoneen päällä, kuten Java tai
+C#, mikä ei hidasta sen suorituskykyä.
+
 
 -ensimmäinen peli unreal enginellä: vuonna 1998 ensimmäisen persoonan ammuntapeli, Unreal
 
