@@ -1,4 +1,4 @@
-# **Unreal-engine ja C++ AAA-tuotannoissa**
+# **Unreal Engine ja C++ AAA-tuotannoissa**
 ## Miksi C++ käytetään isoissa tuotannoissa?
 Pelisuunnittelu on teknisesti vaativa ala.
 Jokaisella framella on pelatessa väliä, joten lagille ei ole varaa.
