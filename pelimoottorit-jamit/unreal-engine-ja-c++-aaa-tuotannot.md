@@ -4,11 +4,13 @@ Pelisuunnittelu on teknisesti vaativa ala.
 Jokaisella framella on pelatessa väliä, joten lagille ei ole varaa.
 C++ käytetään, koska se on nopea, tehokas ja suorituskykyinen.
 Se ei toimi virtuaalikoneen päällä, kuten Java tai
-C#, mikä ei hidasta sen suorituskykyä.
+C#, mikä ei täten hidasta sen suorituskykyä.
 
 C++ antaa ohjelmoijalle enemmän vastuuta ja valtaa.
 Se mahdollistaa ohjelmoijan hallita, miten muistia ja resursseja käytetään.
 Tämän takia C++ on hyvä peliohjelmoinnissa, missä suorituskyvynhallinta on kriittistä.
+
+Siksi suurin osa isoista pelimoottoreista, kuten Unreal Engine, on rakennettu C++ avulla.
 
 -ensimmäinen peli unreal enginellä: vuonna 1998 ensimmäisen persoonan ammuntapeli, Unreal
 
