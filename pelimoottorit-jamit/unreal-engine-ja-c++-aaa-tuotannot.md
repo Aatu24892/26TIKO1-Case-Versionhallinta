@@ -13,3 +13,4 @@ C#, mikä ei hidasta sen suorituskykyä.
 
 ### Lähteet:
 https://www.vcad.ca/about/spotlights/how-is-c-used-in-game-development/#gsc.tab=0
+https://suomigamehub.com/oppaat/c-perusteet/
