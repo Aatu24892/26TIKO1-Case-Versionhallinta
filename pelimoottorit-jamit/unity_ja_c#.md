@@ -16,7 +16,7 @@ paljon päivityksiä, joista uusin versio on Unity 6.
 Unity tuki aiemmin myös muita koodikieliä, mutta nykyään
 se tukee vain C#-kieltä.
 
-# C# koodikieli
+# C#-ohjelmointikieli
 
 C# on tehty moderniksi ja simppeliksi koodikieleksi, jonka
 tarkoituksena on toimia monipuolisesti eri tarkoituksiin.
