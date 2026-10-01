@@ -1,9 +1,11 @@
 # Unity pelimoottori
 
 Unity on ilmainen ja erittäin suosittu pelimoottori.
-Unity 3D on kaikkein suosituin pelimoottori. Noin puolet Steamiin julkaistuista
-peleistä on tehty Unitylla. Myös se tarjoaa on todella paljon erilaisia 
-työkaluja, kuten animaatio, sekä tuen 2D- ja 3D-pelien tekemiseen.
+Unity 3D on kaikkein suosituin pelimoottori. Noin puolet
+Steamiin julkaistuista peleistä on tehty Unitylla. Se myös
+tarjoaa todella paljon erilaisia työkaluja, kuten animaatio,
+sekä tuen 2D- ja 3D-pelien tekemiseen.
+
 Sitä käytetään paljon kouluissa ensimmäisenä kosketuksena
 pelien tekemiseen. Se on monen mielestä hyvä aloittelijoille
 muun muassa siksi, että se on helppokäyttöinen, joustava ja
@@ -25,7 +27,8 @@ vuonna 2002, mutta siitä tuli avoin ja ilmainen käyttää
 Visual Studio Coden julkaisun myötä.
 
 Kielenä se on samankaltainen Javan kanssa, vaikka se kuuluukin
-C-koodisukuun.
+C-koodisukuun. C# on yksinkertaisempi ja luotettavampi syntaksi
+kuin C++:lla, mikä tekee sen oppimisesta helpompaa.
 
 # Lähteet:
 https://www.gameslearningsociety.org/wiki/why-do-so-many-games-use-unity/
