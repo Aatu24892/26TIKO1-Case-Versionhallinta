@@ -17,11 +17,10 @@ Siksi suurin osa isoista pelimoottoreista, kuten Unreal Engine, on rakennettu C+
 ### Ensimmäiset pelit Unreal Enginella
 Ensimmäinen peli unreal enginellä oli vuonna 1998 ensimmäisen persoonan ammuntapeli, Unreal.
 Gears of waria pidetääm esimmäisenä onnistuneena AAA tuotantona Unreal Enginellä.
-
 Se julkaistiin vuonna 2006.
 
-
--modernit pelit unrealillä: Fortnite, Pugb, Black Myth: Wukong
+Isoja pelejä joita on tehty Unreal Enginella on muuanmuassa Fortnite ja Pugb.
+Yksi isoista uutuuksista Unreal Enginella on Black Myth: Wukong.
 
 ### Lähteet:
 https://www.vcad.ca/about/spotlights/how-is-c-used-in-game-development/#gsc.tab=0
