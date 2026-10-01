@@ -1,10 +1,8 @@
 # Unity pelimoottori
 
 Unity on ilmainen ja erittäin suosittu pelimoottori.
-Se tukee 2D- ja 3D-pelinkehitystä. Unity 3D on kaikkein
-suosituin pelimoottori. Noin puolet Steamiin julkaistuista
+Unity 3D on kaikkein suosituin pelimoottori. Noin puolet Steamiin julkaistuista
 peleistä on tehty Unitylla.
-
 Sitä käytetään paljon kouluissa ensimmäisenä kosketuksena
 pelien tekemiseen. Se on monen mielestä hyvä aloittelijoille
 muun muassa siksi, että se on helppokäyttöinen, joustava ja
