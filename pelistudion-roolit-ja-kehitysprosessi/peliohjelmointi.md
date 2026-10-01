@@ -29,3 +29,10 @@ Peliohjelmoinnissa käytetään eri kieliä ja pelimoottoreita. Unity käyttää
 ## 4. Yhteenveto
 
 Peliohjelmointi yhdistää pelin eri osat toimivaksi kokonaisuudeksi. Sen avulla toteutetaan kaikki pelin keskeiset toiminnot yksinkertaisesta liikkumisesta laajoihin pelimekaniikkoihin.
+
+## Lähteet
+
+1. https://docs.godotengine.org/en/stable/tutorials/scripting/
+2. https://docs.godotengine.org/en/stable/classes/class_input.html
+3. https://docs.unity3d.com/Manual/key-concepts.html
+4. https://dev.epicgames.com/documentation/en-us/unreal-engine/coding-in-unreal-engine-blueprint-vs-cplusplus
