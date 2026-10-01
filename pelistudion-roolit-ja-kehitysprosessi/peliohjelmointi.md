@@ -25,3 +25,7 @@ Fysiikkajärjestelmät mahdollistavat esimerkiksi painovoiman, liikkeen ja törm
 ### Ohjelmointikielet
 
 Peliohjelmoinnissa käytetään eri kieliä ja pelimoottoreita. Unity käyttää pääasiassa C#:aa, Godot GDScriptiä ja C#:aa sekä Unreal Engine C++:aa ja Blueprint-järjestelmää.
+
+## 4. Yhteenveto
+
+Peliohjelmointi yhdistää pelin eri osat toimivaksi kokonaisuudeksi. Sen avulla toteutetaan kaikki pelin keskeiset toiminnot yksinkertaisesta liikkumisesta laajoihin pelimekaniikkoihin.
