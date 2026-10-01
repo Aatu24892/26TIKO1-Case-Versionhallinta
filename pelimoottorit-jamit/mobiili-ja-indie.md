@@ -40,7 +40,7 @@ C# saavutti suosiota Unity-pelimoottorin ansiosta, joka tukee pelikehitystä eri
 
 C#:lla voidaan luoda monenlaisia ​​sovelluksia, työpöytä- ja verkkosovelluksista mobiilisovelluksiin Androidille ja iOS:lle. C# tukee olio-ohjelmointia, mikä tekee sovelluskehityksestä jäsennellympää ja kehittäjäystävällisempää.
 
-C#:lla on yksinkertaisempi ja luettavampi syntaksi kuin C++:lla, mikä tekee sen oppimisesta helpompaa.
+ 
 
 ## Lähteet
 
