@@ -1,14 +1,33 @@
-# <Artikkelin nimi>
+# XR teollisuudessa ja viihteessä
 
 ## 1. Tiivistelmä
 
 <Lyhyt, yhden kappaleen tiivistelmä aiheesta>
+
+XR tarkoittaa extended realitya, johon lukeutuu VR (virtual reality), AR
+(augmented reality) ja MR (mixed reality).
+
+VR korvaa kokonaan todellisuuden ja olet osana virtuaalimaailmaa. AR lisää
+virtuaalisia elementtejä oikeaan maailmaan ja MR yhdistää molemmat, jolloin
+oikeat ja virtuaaliset objektit ovat vuorovaikutuksessa toistensa kanssa.
 
 ## 2. Johdanto
 
 <Selitys, mistä artikkelin aiheessa on kyse>
 
 <Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
+
+Extended realitya käytetään IT-alalla moniin eri tarkoituksiin. VR:ää käytetään
+paljon esimerkiksi pelituotannossa ja tunnettuja VR pelejä on paljon. Pelien
+lisäksi sitä käyteään esim. simulaatiotarkoituksiin ja kyberturvallisuus
+skenaarioihin.
+
+AR:ää käytetään esim. asennustöitä tehdessä reaaliaikaisesti ohjeiden näkemiseen
+virtuaalisesti tai näkemään esim. informaatiota liittyen työkaluihin.
+
+MR:ää käytetään mm. IT-tuessa, jossa teknikot voi saada reaaliaikaista apua
+etänä esim. kehittäjiltä antamalla ohjeita ja kontrolloimalla laitteita muualta
+käsin.
 
 <!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
 
@@ -40,7 +59,7 @@
 
 ## 5. Lähteet
 
-- [1st Link Text](URL)
+- [TechTarget](https://www.techtarget.com/WhatIs/definition/What-is-extended-reality)
 - [2nd Link Text](URL)
 - <jne>
 <!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
