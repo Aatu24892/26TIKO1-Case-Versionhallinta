@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Ketterät menetelmät
 
@@ -43,3 +44,6 @@ Scrum viitekehitys on siis yleensä käytetty ohjelmistotuotannossa, sillä alan
 - [2nd Link Text](URL)
 - <jne>
 <!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
+=======
+wasd
+>>>>>>> d0680a53793b7d36bf10f95a0a6214af9e1c2c26
