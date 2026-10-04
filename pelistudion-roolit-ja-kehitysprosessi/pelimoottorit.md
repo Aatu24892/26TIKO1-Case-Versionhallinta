@@ -13,3 +13,7 @@ Nykyaikaiset pelit kehitetään yleensä pelimoottorien avulla. Pelimoottori kok
 ### Unity
 
 Unity on yksi maailman käytetyimmistä pelimoottoreista. Sillä voidaan kehittää sekä 2D- että 3D-pelejä monille eri alustoille, kuten tietokoneille ja mobiililaitteille.
+
+### Godot
+
+Godot on avoimen lähdekoodin pelimoottori, jonka suosio on kasvanut viime vuosina. Se tarjoaa kevyen kehitysympäristön ja tukee useita ohjelmointikieliä.
