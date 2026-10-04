@@ -12,6 +12,16 @@ Selainpelimoottorit mahdollistavat webselain pelit, niihin käy monia muita peli
 
 ### 2.3. Babylon.js
 
+- Babylon.js on avoimen lähdekoodin grafiikka-ja pelimoottori, jonka
+avulla tehdään selainpohjaisia 3D-pelejä, visualisointeja ja
+simulaatioita.
+- Ohjelmointikielenä käyttää JavaScriptiä.
+- Toimii WebGL:n ja WebGPU:n päällä eli ei tarvitse kirjoittaa matalan
+tason grafiikkakoodia.
+- Sisältää valmiita ominaisuuksia, työkaluja peleille ja fyysikan ja
+animaatioiden tuen.
+- Playground-ominaisuus, jossa voit kirjoittaa koodia selaimeen ja
+nähdä tuloksen 3D-näkymässä.
 
 ### 2.4. WebGPU / WebGL
 
