@@ -7,3 +7,9 @@ Pelimoottori on ohjelmisto, joka tarjoaa valmiita työkaluja pelien kehittämise
 ## 2. Johdanto
 
 Nykyaikaiset pelit kehitetään yleensä pelimoottorien avulla. Pelimoottori kokoaa yhteen pelinkehityksessä tarvittavat työkalut, mikä vähentää ohjelmoitavan työn määrää ja nopeuttaa kehitysprosessia.
+
+## 3. Suosittuja pelimoottoreita
+
+### Unity
+
+Unity on yksi maailman käytetyimmistä pelimoottoreista. Sillä voidaan kehittää sekä 2D- että 3D-pelejä monille eri alustoille, kuten tietokoneille ja mobiililaitteille.
