@@ -17,3 +17,7 @@ Unity on yksi maailman käytetyimmistä pelimoottoreista. Sillä voidaan kehitt�
 ### Godot
 
 Godot on avoimen lähdekoodin pelimoottori, jonka suosio on kasvanut viime vuosina. Se tarjoaa kevyen kehitysympäristön ja tukee useita ohjelmointikieliä.
+
+### Pelimoottoreiden hyödyt
+
+Pelimoottorit sisältävät valmiita työkaluja grafiikalle, äänten käsittelylle, animaatioille ja käyttöliittymille. Tämä mahdollistaa nopeamman kehityksen verrattuna tilanteeseen, jossa kaikki ominaisuudet ohjelmoitaisiin itse.
