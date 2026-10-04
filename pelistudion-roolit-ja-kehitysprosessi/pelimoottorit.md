@@ -25,3 +25,7 @@ Pelimoottorit sisältävät valmiita työkaluja grafiikalle, äänten käsittely
 ### Alustatuki
 
 Monet pelimoottorit mahdollistavat saman pelin julkaisemisen useille eri alustoille ilman suuria muutoksia lähdekoodiin. Tämä vähentää kehitystyötä ja helpottaa ylläpitoa.
+
+## 4. Yhteenveto
+
+Pelimoottorit ovat keskeinen osa nykyaikaista pelinkehitystä. Ne tarjoavat kehittäjille valmiita työkaluja ja nopeuttavat projektien toteuttamista. Unity ja Godot ovat suosittuja vaihtoehtoja, jotka soveltuvat monenlaisiin peliprojekteihin.
