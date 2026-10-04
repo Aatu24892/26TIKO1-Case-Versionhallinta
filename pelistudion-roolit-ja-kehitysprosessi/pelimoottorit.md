@@ -29,3 +29,10 @@ Monet pelimoottorit mahdollistavat saman pelin julkaisemisen useille eri alustoi
 ## 4. Yhteenveto
 
 Pelimoottorit ovat keskeinen osa nykyaikaista pelinkehitystä. Ne tarjoavat kehittäjille valmiita työkaluja ja nopeuttavat projektien toteuttamista. Unity ja Godot ovat suosittuja vaihtoehtoja, jotka soveltuvat monenlaisiin peliprojekteihin.
+
+## Lähteet
+
+1. https://docs.unity3d.com/Manual/key-concepts.html
+2. https://unity.com/features
+3. https://docs.godotengine.org/en/stable/about/introduction.html
+4. https://godotengine.org/features/
