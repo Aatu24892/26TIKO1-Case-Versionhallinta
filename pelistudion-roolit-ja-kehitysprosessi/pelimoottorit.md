@@ -21,3 +21,7 @@ Godot on avoimen lähdekoodin pelimoottori, jonka suosio on kasvanut viime vuosi
 ### Pelimoottoreiden hyödyt
 
 Pelimoottorit sisältävät valmiita työkaluja grafiikalle, äänten käsittelylle, animaatioille ja käyttöliittymille. Tämä mahdollistaa nopeamman kehityksen verrattuna tilanteeseen, jossa kaikki ominaisuudet ohjelmoitaisiin itse.
+
+### Alustatuki
+
+Monet pelimoottorit mahdollistavat saman pelin julkaisemisen useille eri alustoille ilman suuria muutoksia lähdekoodiin. Tämä vähentää kehitystyötä ja helpottaa ylläpitoa.
