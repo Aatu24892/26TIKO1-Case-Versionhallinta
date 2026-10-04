@@ -15,6 +15,25 @@ Selainpelimoottorit mahdollistavat webselain pelit, niihin käy monia muita peli
 
 ### 2.4. WebGPU / WebGL
 
+#### WebGL
+
+- WebGL eli Web Graphics Library on teknologia, jota käytetään 2D-ja
+3D-grafiikan piirtämisessä selaimessa. Kuitenkin enemmän 3D-grafiikkaan,
+koska se piirtää sitä nopeasti näytönohjaimen avulla.
+- WebGL perustuu OpenGL ES- standardiin (OpenGL ES:llä tehdään
+mobiilipelejä) eli kirjasto muuntaa koodin WebGL-kutsuiksi, jotka
+sitten vastaavat OpenGL ES:n standardeja.
+- WebGL on matalan tason grafiikkarajapinta, joten se on monimutkainen
+ja hankala, joten yleensä WebGL:ää käyttäessä käytetäänkin toisija
+kirjastoja.
+- WebGL-kirjastoja:
+  - Three.js
+  - Babylon.js
+  - PlayCanvas
+  - PixiJS
+
+#### WebGPU
+
 
 ## 3. Lähteet
 
