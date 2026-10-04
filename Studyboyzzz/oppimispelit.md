@@ -16,8 +16,18 @@ Videopeli on vuorovaikutteinen elektorinen peli, jota pelataan videonäytöllä 
 Oppimispelien luonnollinen käyttöympäristä on koulut, missä opettajat voivat käyttää pelejä apukeinoina vahvistamaan opetusta ja ottamaan oppilaat mukaan aktiivisina osallistujina opetukseen. Nykyään oppimispelit ovat kuitenkin paljon laajempi ilmiö, mikä ei vain rajaudu kouluihin. Oppimispelejä näkee käytössä myös ihmisten kodeissa, työpaikoilla ja julkisissa tiloissa sekä liikenteessä, mihin syynä on varmasti yleistynyt mobiiliteknologia, mikä mahdollistaa älylaitteen käytön missä tahansa. Ei ole esimerkiksi kovin vieras näky se, että joku pelaa Duolingoa puhelimellaan opetetellessaan kieliä sillä aikaa, kun matkustaa linja-autolla. Useammat yritykset ja laitokset käyttävät oppimispelejä harjottamaan jonkin ammatin ydintaitoja ensin simuloivasti ennen kuin siirrytään aitoon käyttöympäristöön. Esimerkiksi kyse voi kuskilla ajoneuvon ajamisesta, tehdastyöntekijällä koneen käytöstä tai sotilaalla aseen käsittelystä. Ja koska oppimispelien hyöty ei ole rajattua mihinkään ikäluokkaan, niin pelejä yhtä hyvin voidaan tavata päivä- ja vanhainkodeissa.
 
 ## Onko oppimispeleistä hyötyä tutkitusti?
+Tutkimusten perusteella oppimispelit voivat tukea oppimista lisäämällä oppilaiden motivaatiota, aktiivisuutta ja sitoutumista opiskeluun.
+Digitaaliset oppimispelit tarjoavat välitöntä palautetta ja auttavat huomioimaan oppilaiden erilaiset oppimistarpeet.
+Lisäksi oppimispelit voivat lisätä vuorovaikutusta ja tehdä oppimisestä osaalistavampaa.
+Tutkimuksisa kuitenkin korostetaan, että oppimispelien hyödyt riippuvat siitä, miten niitä käytetään opetuksessa ja kuinka hyvin ne tukevat oppimistavoitteita.
+oppimispelit eivät korvaa perinteistä opetusta, mutta ne voivat toimia täydentävänä menetelmänä.
+
+
 
 ## Mitä hyödyllisiä oppimispelejä tai -alustoja on olemassa?
+
+Hyödyllisiä oppimispelejä ja -alustoja löytyy monenlaisia. Tunnetuimpia kielen oppimiseen käytettyjä sovelluksia ja nettisivuja ovat Duolingo, quizlet ja Memrise. On myös Duolingon tapainen peli Coddy, joka on tehty koodauksen aloittelijoille.
+Muita enemmän tietovisa ja kouluopetukseen tarkoitettuja alustoja ovat Kahoot ja quizzizz. Molemmissa oppiminen tapahtuu tietovisa alustalla, mutta Quizzizza voit edetä omaan tahtiin toisinkuin kahootissa, joka on tarkoitettu kilpailuksi toisten käyttäjien kanssa.
 
 ## Tiivistelmä
 
@@ -36,3 +46,9 @@ x.10.2026
 [2] https://fi.wikipedia.org/wiki/Oppimispeli
 
 [3] https://fi.wikipedia.org/wiki/Videopeli
+
+[4] https://helda.helsinki.fi/items/afa8fe25-cac3-4fd5-be2a-a8e9e3d08e7f
+
+[5] https://www.utupub.fi/items/8773ca19-edcf-4540-b251-882c0eda7b87
+
+[6] https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/digitalisaation-vaikutukset-oppimiseen-osaamiseen-ja-hyvinvointiin
