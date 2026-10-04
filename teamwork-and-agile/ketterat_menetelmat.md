@@ -8,7 +8,7 @@ Tämä luku keskittyy projektihallinan menetelmiin, jotka pyrkii maksimoimaan pr
 
 ## 2. Johdanto
 
-Tehokkuus on oleellinen tekijä melkein jokaisessa yhteiskunnan ja talouden alueessa. Suurimman osan historiasta tehokkuus on yltänyt vain niin pitkälle, kuin yksittäiset ihmiset ja minimaaliset resurssit ovat kyenneet. Kaikki kuitenkin alkoi muuttumaan 1800-luvun lopussa, toisen teollisen vallankumouksen myötä. Tunnetusti Henry Ford, vaikka ei sitä keksinyt, yleisti liukuhihnatuotannon käytön tehtaissa ja tämä yksinkertainen järjestelmä tulisi mullistamaan maailman. Mutta tehokkuuden kehitys ei missään nimessä ole ohi tai edes hidastunut, se on vain monella tavalla kehityksen mukana muuttunut erinäköiseksi. Työnkulun ja tehokkuuden parantamiseen on siis lukuisia keinoja ja tässä osassa ryhmämme case-työtä käymme läpi projektitöiden tehokkuuden parantamista käyttämällä muokattavia ja sopeutuvia menetelmiä. Alamme projektit kun vaativat yleisesti joustoa, on tärkeää löytää ketteriä stragedioita ja rakenteita.
+Tehokkuus on oleellinen tekijä melkein jokaisessa yhteiskunnan ja talouden alueessa. Suurimman osan historiasta tehokkuus on yltänyt vain niin pitkälle, kuin yksittäiset ihmiset ja minimaaliset resurssit ovat kyenneet. Kaikki kuitenkin alkoi muuttumaan 1800-luvun lopussa, toisen teollisen vallankumouksen myötä. Tunnetusti Henry Ford, vaikka ei sitä keksinyt, yleisti liukuhihnatuotannon käytön tehtaissa ja tämä yksinkertainen järjestelmä tulisi mullistamaan maailman. Mutta tehokkuuden kehitys ei missään nimessä ole ohi tai edes hidastunut, se on vain monella tavalla kehityksen mukana muuttunut erinäköiseksi. Työnkulun ja tehokkuuden parantamiseen on siis lukuisia keinoja ja tässä osassa ryhmämme case-työtä käymme läpi projektitöiden tehokkuuden parantamista käyttämällä muokattavia ja sopeutuvia menetelmiä. Alamme projektit kun vaativat yleisesti joustoa, on tärkeää löytää ketteriä strategioita ja rakenteita.
 
 <!-- Koska otsikko on Ketterät menetelmät olisi kiva jos avaisit myös tätä käsitettä ja toisit sen enemmän esille jos ei siis ollut jo aikomus :) -IS -->
 
@@ -36,17 +36,17 @@ Scrum viitekehitys on siis yleensä käytetty ohjelmistotuotannossa, sillä alan
 
 ### 3.2. Kanban
 
-Kanban on projektityön optimisaatio stragedia, joka löytää juurensa jo 1940-luvun lopulta Toyotan tehdoista. Keskitymme nyt kuitenkin kanban stragediaan ja sen käyttöön suhteessa ohjelmistotuotantoon, mutta optimisaatio stragediana kanban mallia voi soveltaa monessa kontekstissa.
+Kanban on projektityön optimisaatio strategia, joka löytää juurensa jo 1940-luvun lopulta Toyotan tehdoista. Keskitymme nyt kuitenkin kanban strategiaan ja sen käyttöön suhteessa ohjelmistotuotantoon, mutta optimisaatio strategiana kanban mallia voi soveltaa monessa kontekstissa.
 
-Kanban perustuu kolmeen päätoimintaan ja niiden suorittamiseen yhtäaikaisesti: työnkulun määrittäminen ja visualisointi, työnkulun kohteiden aktiivinen hallinta ja työnkulun parantaminen. Optimisaatio stragediana kanbanissa ei ole asetettuja vastuualueita ja asetettuja rooleja ja sitä pystyy käyttämään yhteydessä tiukemmin asetettujen projektihallinta menetelmien (kuten scrum) kanssa. Pointtina on siis puhtaasti työoptimisaatio ja työnkulun hyvän tasapainon löytäminen edistymisen, tehokkuuden ja ennakoitavuuden välillä. Työnkulkua kuuluu seurata ja dataa kerätä koko projektin ajan, että kanban stragedia toimii. Oleellinen seurattava tieto on mm: keskeneräisten työtehtävien määrä, valmiiksi saatujen työtehtävien määrä määritetyssä ajassa ja työtehtäviin kulunut aika. Tätä dataa seuraamalla ja analysoimalla pyritään sitten muuttamaan ja optimisoimaan työnkulkua.
+Kanban perustuu kolmeen päätoimintaan ja niiden suorittamiseen yhtäaikaisesti: työnkulun määrittäminen ja visualisointi, työnkulun kohteiden aktiivinen hallinta ja työnkulun parantaminen. Optimisaatio stratediana kanbanissa ei ole asetettuja vastuualueita ja asetettuja rooleja ja sitä pystyy käyttämään yhteydessä tiukemmin asetettujen projektihallinta menetelmien (kuten scrum) kanssa. Pointtina on siis puhtaasti työoptimisaatio ja työnkulun hyvän tasapainon löytäminen edistymisen, tehokkuuden ja ennakoitavuuden välillä. Työnkulkua kuuluu seurata ja dataa kerätä koko projektin ajan, että kanban strategia toimii. Oleellinen seurattava tieto on mm: keskeneräisten työtehtävien määrä, valmiiksi saatujen työtehtävien määrä määritetyssä ajassa ja työtehtäviin kulunut aika. Tätä dataa seuraamalla ja analysoimalla pyritään sitten muuttamaan ja optimisoimaan työnkulkua.
 
-Kanban stragedia siis on suhteellisen yksinkertainen, mutta äärimmäisen helposti sovellettava ja siten sopii monenkaltaiseen käytäntöön. Se sopii erityisen hyvin ohjelmistotuotannon projekteihin, sillä sen soveltaminen muiden projektihallintomallien kanssa on erityisen sujuvaa ja hyödyllistä.
+Kanban strategia siis on suhteellisen yksinkertainen, mutta äärimmäisen helposti sovellettava ja siten sopii monenkaltaiseen käytäntöön. Se sopii erityisen hyvin ohjelmistotuotannon projekteihin, sillä sen soveltaminen muiden projektihallintomallien kanssa on erityisen sujuvaa ja hyödyllistä.
 
 <!-- 3.3. , 3.4. jne. tarvittaessa -->
 
 ## 4. Yhteenveto
 
-Projektihallinta ei ole yksinkertaista ja projektien navigointi voi olla erityisenkin hankalaa, jos et aseta etukäteen rakenteita ja stradegioita työn ympärille. Keinoja on kuitenkin monia ja hyvällä suunnittelulla pystyy ryhmä hyvinkin erilaisia ihmisiä taidoiltaan tai taustoiltaan menestymään ja luomaan jotain suurta. Käyttämällä joustavia ja ketteriä menetelmiä tulee erilaisuuksista vahvuuksia.
+Projektihallinta ei ole yksinkertaista ja projektien navigointi voi olla erityisenkin hankalaa, jos et aseta etukäteen rakenteita ja strategioita työn ympärille. Keinoja on kuitenkin monia ja hyvällä suunnittelulla pystyy ryhmä hyvinkin erilaisia ihmisiä taidoiltaan tai taustoiltaan menestymään ja luomaan jotain suurta. Käyttämällä joustavia ja ketteriä menetelmiä tulee erilaisuuksista vahvuuksia.
 
 ## 5. Lähteet
 
