@@ -31,9 +31,17 @@ kirjastoja.
   - Babylon.js
   - PlayCanvas
   - PixiJS
+- Shader-kielenä käyttää GLSL-kieltä.
 
 #### WebGPU
 
+- WebGPU on modernimpi versio WebGL:stä, ja se on suorituskyvyltään
+tehokkaampi sekä antaa selaimelle suoremman pääsyn näytönohjaimeen.
+- Sen shader-kielenä se käyttää WGSL-kieltä.
+- WebGPU muistuttaa grafiikkarajapintoja:
+  - Vulkan
+  - DirectX 12
+  - Metal
 
 ## 3. Lähteet
 
