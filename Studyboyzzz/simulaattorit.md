@@ -9,7 +9,7 @@ Simulaattori on oikeaa tilannetta jäljittelevä ohjelma, laite tai virtuaalinen
 
 Simulaattoreita käytetään monella eri alalla kuten kuljetus, rakennus, sähkö, kone, ICT ja terveysalalla.  Tunnetuimmat simulaattorit ovat kuljetus- ja metsäalalla. Suomessa tehdään yhtiä maailman parhaita metsäalan simulaattoreita.
 
-Simulaattoreita voidaan käyttää myös täysin viihde tarkoitukseen.
+Simulaattoreita voidaan käyttää myös täysin viihde tarkoitukseen ja monia voidaan käyttää molempiin.
 
 #### IT alan eri simulaattoreita:
 
@@ -21,13 +21,19 @@ Simulaattoreita voidaan käyttää myös täysin viihde tarkoitukseen.
 Virtuaalikoneella voidaan luoda tietokoneen sisälle toinen tietokoneympäristö jossa voidaan harjoitella palvelimen hallintaa. Esimerkiksi VMware.
 
 ## Simulaattoreiden ongelmat
-Simulaattoreilla on rajansa. Simulaattorit eivät pysty toistaiseksi täysin simuloimaan oikeaa työympäristöä. Tämä on kaikista huomattavimpaa laitteissa kuten ajosimulaattoreissa, jotka tuntuvat hyvin erilaiselta kun ajaminen.
+Simulaattoreilla on rajansa. Simulaattorit eivät pysty toistaiseksi täysin simuloimaan oikeaa työympäristöä. Tämä on kaikista huomattavimpaa laitteissa kuten ajosimulaattoreissa, jotka tuntuvat hyvin erilaiselta kuin ajaminen. Monet vertaavat jopa videopeleihin. Se on yksi syy miksi Ihmiset käyttäytyvät hyvin erilailla simuloiduissa ympäristöissä ja minkä takia oikean tilanteen simuloiminen täysin on mahdotonta.
 
-Ihmiset käyttäytyvät hyvin erilailla simuloiduissa ympäristöissä.
-
-Ammattisimulaattorit voivat olla hyvin kalliita hankkia ja ylläpitää. Niitä pitää päivittää ja huoltaa. Yksityiskäyttöön tarkoitettu oikea ajosimulaattori voi kustantaa kymmeniä tuhansia.
+Ammattisimulaattorit voivat olla hyvin kalliita hankkia ja ylläpitää. Niitä pitää päivittää ja huoltaa. Yksityiskäyttöönkin tarkoitettu oikea ajosimulaattori voi kustantaa kymmeniä tuhansia.
 
 ## Tulevaisuus
 Simulaattoreiden käyttö yleistyy kokoajan ja yhä useammat alat tajuavat kuinka käytännöllisiä ne ovat tiettyjen työtehtävien harjoittelussa.
 
-Virtuaalitodellisuus ja teknologian kehitys tulee tekemään simulaattoreista vielä realistisempia. Tekoäly on myös mahdollistanut erilaisten ja parempien simulaattoreiden tekemisen. Sen avulla voidaan luoda dynaamisia tilanteita ja keskusteluita sen sijaan että ne olisi ennuudeltaan koodattuja.
+Virtuaalitodellisuus ja teknologia on kehittynyt rajusti viime vuosikymmenen aikana ja tulee tekemään simulaattoreista vielä realistisempia. Tekoäly on myös mahdollistanut erilaisten ja parempien simulaattoreiden tekemisen. Sen avulla voidaan luoda dynaamisia tilanteita ja keskusteluita sen sijaan että ne olisi ennuudeltaan koodattuja.
+
+
+## Lähteet
+1. https://en.wikipedia.org/wiki/Simulation?utm_source=chatgpt.com
+2. https://en.wikipedia.org/wiki/Training_simulation?utm_source=chatgpt.com
+3. https://www.tts.fi/uutiset/simulaattorit-kuljetusalan-koulutuksessa/
+4. https://yle.fi/a/74-20194173
+5. https://www.theseus.fi/server/api/core/bitstreams/4cb66f2d-9470-44c6-806f-1abbf721b916/content
