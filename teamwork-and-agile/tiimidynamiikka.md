@@ -50,6 +50,7 @@ Tasot rakentuvat toistensa päälle ja ovat hyvä lähtökohta tarkastella milla
 ## 4. Yhteenveto
 
 Mielestäni psykologinen turvallisuus on tärkeä jo opiskelun aikana ja varsinkin sitten kun siirrymme joskus työelämään. Kaikki haluavat olla ympäristössä, jossa voi rauhassa olla oma itsensä. Työelämässä esiintyy edelleen organisaatioita, joissa toimintatavat ovat melko hierarkkisia. Osassa hierarkkia tulee uudistumisen puutteesta ja osassa syynä voivat olla kulttuurilliset asiat, joten kaikissa työyhteisöissä psykologinen turvallisuus ei vielä toteudu samalla tavalla. Psykologisen turvallisuuden edistäminen on meidän jokaisen yhteinen tehtävä, jotta kaikilla olisi mahdollisuus antaa palautetta ja luoda uusia inspiroivia ideoita.
+<!-- wau onpas hienosti kirjoitettu, ei mulla oo tähän mitään lisättävää -IM -->
 
 ## 5. Lähteet
 
