@@ -20,15 +20,16 @@ Taitava graafikko voi luoda visuaalisesti puhuttelevia kuvia, malleja ja animaat
 - 2D-animaatioista tehdään usein spritesheet/kuvatiedosto, ei videotiedostoa
   - Poikkeuksena peliin tarkoituksella sisällytetyt videot, esim. "cutscenet" eli välianimaatiot, jotka voi myös renderöidä pelin sisällä valmiin videon sijaan
 - Resoluutio valitaan käytön mukaan:
-  - Pikselitaidetta tehdessä täytyy olla tarkkana pikseleiden sekä lopullisen grafiikan koon suhteen
-  - Pelissä pienet tai kaukaiset asiat usein ovat yksinkertaisempia, kuin muu grafiikka, sillä niiden  
+  - Pikselitaidetta tehdessä täytyy olla erityisen tarkkana pikseleiden sekä lopullisen grafiikan koon suhteen
+  - Pelissä pienet tai kaukaiset asiat usein ovat yksinkertaisempia ja ei aina tarvitse suurta resoluutiota
+  - Tärkeät ja helposti huomattavat elementit taas tarvitsevat korkean resoluution, koska alhainen resoluutio olisi tällöin silmäänpistävää
   - Asioita skaalatessa resoluution muutos voi olla helposti huomattavissa, etenkin pienillä resoluutioilla
 
 ### Pelimoottorin & koodin puoli
 
 **Pelimoottorin hyödyntäminen**
 
-- Peligraafikon ei tarvitse, eikä voi, tehdä kaikkea (kuten dynaamisia muutoksia). Tiettyjä asioita voidaan tehdä pelin sisäisesti:
+- Peligraafikon ei tarvitse tehdä kaikkea, eikä hän voikkaan (kuten dynaamisia muutoksia). Tiettyjä asioita voidaan tehdä pelin sisäisesti:
   - Modulaariset animaatiot ja liike
   - Animaatioiden ajoitusten muokkaaminen
   - Sävyn/läpinäkyvyyden muutokset
