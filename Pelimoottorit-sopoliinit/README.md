@@ -22,11 +22,11 @@ Dokumentit kertovat erillaisista mahdollisista pelimoottoreista ja miten ne toim
 
 **Kirjoittanut:** Eelis
 
-### 4. avoimet_pelimoottorit.md (?)
+### 4. eri-avoimet.md
 
-**Kertoo:** Avoimista pelimoottoreista ---
+**Kertoo:** Esittelee kolme peliteollisuudessa käytettyä avointa pelimoottoria, ja millaisten pelien tuotantoon ne erikoistuvat
 
-**Kirjoittanut:** ---
+**Kirjoittanut:** Maria
 
 #### 5. README.md
 
