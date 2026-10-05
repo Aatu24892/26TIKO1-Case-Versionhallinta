@@ -31,6 +31,9 @@ tekee koodista loogisemman ja helpommin ymmärrettävän varsinkin laajoissa
 projekteissa.
 - Ohjelmointikielenä käyttää Rustia.
 - Webassembly-tuki selainpeleille.
+- Bevyllä voi tehdä ECS-mallin takia helposti 2d-pelejä. Myös sillä
+tehdään 3d-pelejä ja simulaatioita. Hyvä sellaisissa peleissä, joissa on
+paljon yksiköitä ja ammuksia.
 
 ## 6. Lähteet
 
