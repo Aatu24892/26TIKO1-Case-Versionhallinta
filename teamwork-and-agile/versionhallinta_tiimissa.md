@@ -1,6 +1,7 @@
 # Versionhallinta Tiimissä
 
 ## Git ja Code review tiimin tukena
+<!-- Muiden tiedostojen alaotsikot oli nimetty "johdanto/tiivistelmä" niin sitä vois harkita tässäkin, että tiedostoista tulisi yhtenäisemmän oloisia? (ks. article-template.md) -IM -->
 Git versionhallinta mahdollistaa usean kehittäjän työskentelyn saman projektin parissa.
 
 Code review on koodin vertaisarviointi, joka auttaa kehittäjiä varmistamaan tai parantamaan koodin laatua.
