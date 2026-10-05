@@ -1,14 +1,29 @@
 # Selainpelimoottorit
 
 ## 1. Tiivistys
+
 Selainpelimoottorit mahdollistavat webselain pelit, niihin käy monia muita pelimoottoreita, kuten Unity, Godot, Phaser, joihin käytetään esim. WebGPU tai WebGL API:a jotka sitten mahdollistavat grafiikkakiihdytyksen ja muut graafiset käytänteet
 
 
 ### 2.1. PlayCanvas
 
+- Open-source 3D pelimoottori
+- WebGPU / WebGL tuki
+- Toimii moderneissa selaimissa kuten Firefox ja Chrome
+- 3D animaatioita ja ääniä
+- Mahdollistaa yhteistyöskentelyn samaanaikaisesti
+- JavaScript
+- Live testaus
 
 ### 2.2. Phaser
 
+- Kevyt open-source 2D
+- Nykyisin myös mahdollista 3D peleille (Käyttäen WebGL:ää)
+- HMTL5 Canvas ja WebGL dynaaminen tuki
+- JavaScript / TypeScript
+- AI Integrointi
+- Web ja HTML5 äänituki
+- Kaksi fysiikkamoottoria, Arcade Physics sekä MatterJS
 
 ### 2.3. Babylon.js
 

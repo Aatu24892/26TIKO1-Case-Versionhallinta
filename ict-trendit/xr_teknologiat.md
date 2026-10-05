@@ -33,33 +33,40 @@ käsin.
 
 ## 3. Työkaluja
 
-<Aiheeseen liittyvät ohjelmat, menetelmät, verkkosivut tms.>
+XR-sovellusten kehittämiseen ja käyttämiseen on saatavilla useita ohjelmistoja ja kehitysalustoja.
 
-### 3.1. <Ohjelma 1>
+3.1. Unity
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
+Unity on pelimoottori, jolla tehdään reaaliaikaista 3D-sisältöä. Sillä voi rakentaa VR-, AR- ja MR-sovelluksia usealle laitteelle. XR-tuki toimii plug-in-järjestelmän kautta: kohdealusta valitaan XR Plug-in Management -asetuksista, ja päälle voi lisätä paketteja, kuten AR Foundationin, XR Interaction Toolkitin tai käsiseurannan tuovan XR Handsin. Tuettujen laitteiden joukossa ovat muun muassa Meta Quest 2, 3, 3S ja Pro sekä Android XR.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
+Aloittaminen on melko helppoa. Unity Hubissa luodaan projekti XR-pohjalla, joka tuo tarvittavat paketit valmiiksi, ja XR-providerina suositellaan nykyään OpenXR-pluginia. Tekijältä odotetaan C#-osaamista ja jonkin verran 3D-ymmärrystä. Osa paketeista vaatii maksullisen Pro-, Enterprise- tai Industry-tilauksen.
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
+Suurin etu on, että samalla koodilla pääsee OpenXR:n kautta usealle laitteelle eikä perusinteraktioita tarvitse ohjelmoida alusta asti. Unity sopii hyvin peleihin, koulutussimulaatioihin ja prototyyppien tekoon.
 
-### 3.2. <Ohjelma 2>
+3.3. Meta Quest ja Meta XR SDK
 
-<Kuvaus ohjelman toiminnasta, mitä ohjelma tekee>
+Meta Quest on yksi yleisimmistä itsenäisistä VR- ja MR-laitteista, eli se ei tarvitse toimiakseen tietokonetta. Metan Unitylle tarjoamat Meta XR SDK:t, kuten Core SDK, Interaction SDK ja Voice SDK, tuovat sovelluksiin muun muassa XR-kameran, käsi- ja ohjaintulot ja puheentunnistuksen. Building Blocks -työkalulla pääsee nopeasti alkuun prototyypin kanssa. Meta XR Simulatorilla ja Link-yhteydellä voi testata ilman, että laseja tarvitsee pitää koko ajan päässä.
 
-<Kuvaus ohjelman käyttöönotosta, kuka voi käyttää ja miten>
+Käyttöönotossa asennetaan Unity, lisätään Meta XR Core SDK Unity Asset Storesta ja valitaan Unity OpenXR Plugin XR-providerksi (Unity 6:ssa suositus). Laitteen voi kytkeä kehitystilaan ja testata suoraan USB:llä tai Linkillä. Käyttäjiä voivat olla yksittäiset kehittäjät, pienet studiot ja yritykset, joilla on Quest-laitteita.
 
-<Peruste, millä tavalla käyttö parantaa työntekoa, mihin tarkotukseen sopii>
-
-<!-- 3.3. , 3.4. jne. tarvittaessa -->
+Quest sopii VR-peleihin, harjoitussimulaatioihin, virtuaalisiin yhteistyötiloihin ja MR-kokeiluihin.
 
 ## 4. Yhteenveto
 
-<Omat johtopäätökset ja suositukset>
+XR ei ole vielä kaikkien työkalu, mutta tietyissä tehtävissä se toimii jo hyvin. Selkeimmät käyttökohteet ovat koulutus, koneiden huolto, etätuki, tuotteiden suunnittelu ja pelit.
+
+Aloittamisen kynnys on semi-matala, koska Unityä ja Unrealia voi kokeilla ilmaiseksi, mutta itsenäiset VR-lasit, kuten Quest, maksavat ihan kivasti. Tärkeintä on valita työkalu sen mukaan, mitä haluaa tehdä:
+
+Peleihin, mobiili-AR:ään ja nopeisiin kokeiluihin sopii Unity.
+Kohteisiin, joissa kuvan pitää näyttää todelliselta, sopii Unreal Engine.
 
 ## 5. Lähteet
 
-- [TechTarget](https://www.techtarget.com/WhatIs/definition/What-is-extended-reality)
-- [2nd Link Text](URL)
-- <jne>
+https://www.techtarget.com/WhatIs/definition/What-is-extended-reality
+https://docs.unity3d.com/6000.0/Documentation/Manual/xr-support-packages.html
+https://docs.unity3d.com/6000.1/Documentation/Manual/configuring-project-for-xr.html
+https://docs.unity3d.com/6/Documentation/Manual/xr-meta-quest-develop.html
+https://developers.meta.com/vr/documentation/unity/unity-development-overview/
+https://developers.meta.com/vr/documentation/unity/unity-project-setup/
+https://developers.meta.com/vr/blog/openxr-standard-quest-horizonos-unity-unreal-godot-developer-success/
 <!-- Muista rivinvaihto myös viimeisen tekstirivin jälkeen! -->
