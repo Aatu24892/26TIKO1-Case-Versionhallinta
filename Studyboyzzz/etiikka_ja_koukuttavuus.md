@@ -32,14 +32,18 @@ Eli säännöllisen palkitsemisen mekanismi. Pitää pelaajat
   voi olla suunniteltu tavalla jolla niitä tulee vastaan
    "luonnollisesti". Tarkoitus on pitää aivot jatkuvassa
     odotustilassa ja pitää pelaajat kokoajan kiinni
-    pelissä.
+    pelissä. Sen lisäksi monet pelit varsinkin puhelinpelit ovat jatkuvasti muistuttamassa, että hei etpäs ole pelannut hetkeen.
 ### Hidasteet ja odotusajat
 Monissa peleissä voi olla odotusaikoja, jotka voivat kestää tunnista päiviin jotta peliä voi järkevästi jatkaa. Vaihtoehtona on tietenkin käyttää rahaa prosessin nopeuttamiseksi.
 
 
-## Videopeli riippuvuus
+## Videopelit uhkapelaamista?
+Monet keinot saada ihmiset koukkuun videopeleihin ovat hyvin samanlaisia, kun uhkapeleihin. Lootboxit sinänsä ovat sama asia kuin yksi pyöräytys nettikasinolla. Ainut ero onse, että rahan sijaan mietit "tulisikohan sieltä se skini minkä halusin". Jos olet ikinä nettikasinolle rahaa laittanut tiedät myös varmaan, että muistutuksia ja mainoksia erilaisista bonuksia tai uusista peleistä tulee kokoajan sähköpostiin tai viestillä. Myös kasinot käyttävät FOMO:a hyväkseen sähköpostiin tullut viesti saattaa muistuttaa, että tämä diili on voimassa vain tämän viikonlopun. No mutta ainakin kasinot maksavat rahaa. Siihen asti kunnes saat viestin, että olet saanut 10 free spinniä jos tulet nyt pelaamaan, ja ehkä sen jälkeen haluatkin pelata vähän lisää.
+Tähän lisättynä Loot Boxien avaaminenkin sisältää paljon yhtäläisyyksiä uhkapelejen kanssa. Uhkapeleissä on paljon värejä, paljon valoja, paljon tapahtuu ja aivojen palkintajärjestelmä tyydyttyy ja dopamiini virtaa.  Lootboxien avaaminen sisältää hyvin paljon samankaltaisuuksia sen avaamisesta tehdään niin sanotusti spektaakkeli josta saa mielihyvää.
+
 
 ## Eettisyys
+
 
 ## Tiivistelmä
 
