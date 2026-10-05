@@ -9,15 +9,16 @@ Tämä tiedosto keskittyy yleisesti niin 2D- ja 3D-taiteen sekä animaation peru
 **Esimerkkejä erilaisista tyyleistä, joilla tehdä peligrafiikkaa**
 
 - 2D-rasteritaide
-  - Muistuttaa paperille piirtämistä; Suurimmat erot ovat hyödynnettävissä olevat kerrokset, asetukset ja mahdollisuus poistaa ja lisätä asioita saman piirustukseen lähes ikuisesti
+  - Muistuttaa paperille piirtämistä; Suurimmat erot ovat hyödynnettävissä olevat kerrokset, asetukset ja mahdollisuus poistaa ja lisätä asioita samaan piirustukseen lähes ikuisesti
   - Skaalautuu huonosti, joten rasterigrafiikat täytyy tehdä mahdollisimman lähelle haluttua kokoa tai hieman suuremmiksi riippuen siitä, sisältääkö grafiikkasi esim. ääriviivoja, jotka eivät saa ohentua kuvaa kutistaessa
 - Pikselitaide
-  - Erittäin vanha ja tehokas tapa tehdä 2D-grafiikkaa, eikä välttämättä vaadi piirtämistaitoja
+  - Erittäin vanha ja tehokas tapa tehdä 2D-grafiikkaa, eikä välttämättä vaadi paljoa piirtämistaitoja
   - Pikseligrafiikka perustuu siihen, kuinka pelaajan mielikuvitus täyttää matalan resoluution jättämät aukot
 - Vektorigrafiikka
   - Vaatii paljon teknisempää lähestymistapaa kuin rasterigrafiikka
   - Vektorigrafiikka on monikäyttöistä ja skaalautuu hyvin, minkä vuoksi sitä käytetään paljon esim. logoissa
-  - Vector-tiedostot voivat tarvita paljon tilaa koneelta sekä toimenpiteitä pelimoottorissa, minkä vuoksi monet tallentavat vektorigrafiikalla tekemänsä grafiikat esim. .png -muodossa ja käyttävät vektorigrafiikkaa vain apuna mm. animointivaiheessa
+  - Vector-tiedostot voivat tarvita paljon tilaa koneelta sekä toimenpiteitä pelimoottorissa, minkä vuoksi monet tallentavat vektorigrafiikalla tekemänsä grafiikat esim. png -muodossa ja käyttävät vektorigrafiikkaa vain apuna mm. animointivaiheessa
+  - Yleisesti fontit tehdään ja tallennetaan vektoreina, jotta teksti olisi aina terävää ja luettavaa koosta riippumatta
 - 3D-mallintaminen polygonien avulla
   - Perustuu polygonien lisäämiseen ja siirtelyyn 3D-ohjelmassa
   - Peligrafiikassa kannattaa minimoida polygonien määrä, sillä suuri määrä polygoneja voi aiheuttaa paljon viivettä pelin sisällä aina, kun kyseinen malli on ruudulla
