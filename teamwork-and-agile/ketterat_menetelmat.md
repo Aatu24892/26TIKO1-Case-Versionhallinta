@@ -17,6 +17,7 @@ Tehokkuus on oleellinen tekijä melkein jokaisessa yhteiskunnan ja talouden alue
 
 <!-- Komppaan Iidaa tässä, ensimmäiseen lauseeseen vois vaikka määritellä tuon käsitteen ja lopussa mainita Scrumin ja Kanbanin, muuten tykkään kyllä tästä kappaleesta. Esim. "Ketteristä menetelmistä puhuessa tarkoitetaan..." ja luvun loppuun voisi lisätä esim. "Scrum ja Kanban ovat ohjelmistokehityksessä ja projektinhallinnassa yleisesti käytettyjä toimintamalleja." -IM -->
 
+<!-- Tuo johdannon loppu mielestäni avaa tämän kappaleen perus konsepteja mitä ketterillä menetelmillä tarkoitetaan ja mielestäni scrum ja kanban selitetään hyvin omissa kappaleissaan, mielestäni vähän hölmöä selittää mitä ne on edes yleisellä tasolla kahdesti. -KP -->
 ## 3. Työkaluja
 
 Tietotekniikka on mullistanut tehokkuutta ja sen parantamista jo yli 50 vuotta, mutta me emme ole poistaneet ihmisluovuutta meidän järjestelmistä. Katsotaan siis esimerkkejä siitä, minkälaisia mullistavia järjestelmiä tämä luovuus on kyennyt luomaan nykymaailmaa varten.
