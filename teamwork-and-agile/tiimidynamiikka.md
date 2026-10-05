@@ -23,7 +23,8 @@ IT-ala on monimuotoinen ja usein monikulttuurinen. Alalla työskentelee eri taus
 Mihin psykologinen turvallisuus sitten IT-alalla vaikuttaa?
 - **Innovaatioon**
   - Tunnet olosi turvalliseksi olla luova, tuoda esiin ideoita ja ehdotuksia.
-   -Ei tarkoita sitä että kaikista ideoista ollaan samaa mieltä tai kaikkia ehdotuksia tuettaisiin.
+  - Ei tarkoita sitä että kaikista ideoista ollaan samaa mieltä tai kaikkia ehdotuksia tuettaisiin.
+  <!-- lisätty välilyönti -JS -->
 - **Tehokkuuteen**
   - Motivaatio sitoutua työhön ja tiimiin. Ongelmat ratkeavat nopeammin ja konfliktit ratkaistaan rakentavasti. Apua saa nopeammin kun uskaltaa kysyä.
   - Ei tarkoita että epäpätevyys hyväksyttäisiin tai tavoitteiden madaltamista.

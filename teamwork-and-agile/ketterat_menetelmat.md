@@ -50,7 +50,8 @@ Kanban strategia on siis suhteellisen yksinkertainen, mutta äärimmäisen helpo
 
 ## 4. Yhteenveto
 
-Projektihallinta ei ole yksinkertaista ja projektien navigointi voi olla erityisenkin hankalaa, jos et aseta etukäteen rakenteita ja strategioita työn ympärille. Keinoja on kuitenkin monia ja hyvällä suunnittelulla pystyy ryhmä taidoiltaan tai taustoiltaan hyvinkin erilaisia ihmisiä menestymään ja luomaan jotain suurta. Joustavia ja ketteriä menetelmiä käyttämällä erilaisuuksista tulee vahvuuksia.
+Projektihallinta ei ole yksinkertaista ja projektien navigointi voi olla erityisenkin hankalaa, jos et aseta etukäteen rakenteita ja strategioita työn ympärille. Keinoja on kuitenkin monia ja hyvällä suunnittelulla pystyy ryhmätaidoiltaan tai taustoiltaan hyvinkin erilaisia ihmisiä menestymään ja luomaan jotain suurta. Joustavia ja ketteriä menetelmiä käyttämällä erilaisuuksista tulee vahvuuksia.
+<!-- korjasin yhdyssanavirheen -JS -->
 
 ## 5. Lähteet
 

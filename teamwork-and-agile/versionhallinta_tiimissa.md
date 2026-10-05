@@ -1,6 +1,6 @@
 # Versionhallinta Tiimissä
 
-## Git ja Code review tiimin tukena
+## Johdanto
 <!-- Muiden tiedostojen alaotsikot oli nimetty "johdanto/tiivistelmä" niin sitä vois harkita tässäkin, että tiedostoista tulisi yhtenäisemmän oloisia? (ks. article-template.md) -IM -->
 Git versionhallinta mahdollistaa usean kehittäjän työskentelyn saman projektin parissa.
 
@@ -17,9 +17,10 @@ Gitin jakautettu luonne on ihanteellinen etätyöskentelyyn. Tiimin jäsenet voi
 <!-- Hyvää jälkeä, no notes -MM -->
 
 ## Code review
-Code review (koodikatselmointi) on koodin vertaisarviointi, jossa toinen kehittäjä tarkastaa kollegansa kirjoittaman koodin ennen sen käyttöönottoa. Tarkoituksena on varmistaa, että ratkaisu toimii oikein, on laadukkaasti toteutettu ja noudattaa sovittuja käytäntöjä. Samalla pyritään löytämään mahdolliset virheet, loohiset puutteet ja muut ongelmat mahdollisimman varhaisessa vaiheessa.
+Code review (koodikatselmointi) on koodin vertaisarviointi, jossa toinen kehittäjä tarkastaa kollegansa kirjoittaman koodin ennen sen käyttöönottoa. Tarkoituksena on varmistaa, että ratkaisu toimii oikein, on laadukkaasti toteutettu ja noudattaa sovittuja käytäntöjä. Samalla pyritään löytämään mahdolliset virheet, loogiset puutteet ja muut ongelmat mahdollisimman varhaisessa vaiheessa.
 
 <!-- onko tarkoituksella loohiset? :D -IS -->
+<!-- ei ollut: korjattu -JS -->
 
 Koodikatselmointi voidaan toteuttaa usealla eri tavalla riippuen tiimin työskentelytavoista. Kehittäjät voivat tarkastella koodia yhdessä pariohjelmoinnin aikana, keskutella muutoksista suoraan toistensa kanssa, hyödyntää katselmointiin tarkoitettuja työkaluja tai jakaa pienet muutokset tarkistettavaksi sähköpostin tai versionhallintajärjestelmän kauttta. Kaikkien menetelmien tavoitteena on löytää mahdolliset virheet ja parantaa koodin laatua ennen sen käyttöönottoa.
 
