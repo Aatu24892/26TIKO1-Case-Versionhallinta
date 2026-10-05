@@ -74,3 +74,6 @@ tehokkaampi sekä antaa selaimelle suoremman pääsyn näytönohjaimeen.
 - [Phaser Wikipedia](en.wikipedia.org/wiki/Phaser_(game_framework))
 - [Babylon.js Wikipedia](https://en.wikipedia.org/wiki/Babylon.js)
 - [WebGPU Wikipedia](https://en.wikipedia.org/wiki/WebGPU)
+- [Babylon.js sivusto](https://www.babylonjs.com/)
+- [Developer.mozilla.org sivusto WebGL](https://developer.mozilla.org/docs/Web/API/WebGL_API)
+- [Developer.mozilla.org sivusto WebGPU](https://developer.mozilla.org/docs/Web/API/WebGPU_API)
