@@ -33,5 +33,6 @@ Voidaankin tiivistää, että kaikkia näitä viestintätyökaluja yhdistää ta
 
 ## 5. Lähteet
 
+<!-- onko mahdollista saada lähteisiin linkit? -JS -->
 - Ullah, Rana Muhammad Haseeb. Strategies for Effective Management and Integration in Both Software and Game Development. 2024.
 - “Appfire Increases Workflow Efficiency and Productivity For Organizations Using Jira, Slack, and Microsoft Teams.” PR Newswire [New York], November 9, 2022.
