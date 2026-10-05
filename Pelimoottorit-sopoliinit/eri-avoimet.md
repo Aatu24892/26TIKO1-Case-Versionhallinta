@@ -13,17 +13,28 @@ Yleisten moottoreiden lisäksi on lukuisia avoimia pelimoottoreita jotka ovat lu
 
 - Cocos2d on avoin pelimoottori, joka erikoistuu 2D-pelien kehittämiseen.
 - Cocos2d-moottori mahdollistaa C++, C#, Lua ja JavaScript-kielillä skriptaamisen.
-- Cocos mahdollistaa pelikehityksen Windows, macOS ja Linux käyttöjärjestelmille sekä verkkoalustoille, mutta moottori on erityisen suosittu älypuhelinpelien kehitykseen Android ja iOS laitteille. 
+- Cocos mahdollistaa pelikehityksen Windows, macOS ja Linux käyttöjärjestelmille sekä verkkoalustoille, mutta moottori on erityisen suosittu älypuhelinpelien kehitykseen Android ja iOS laitteille.
 - Cocos-moottorista on lukuisia eri versioita, joista suosituin on Objective-C-kielellä ohjelmoitu Cocos2d-ObjC, joka luotiin iOS-laitteiden pelejä varten.
 
 ## 4. Ren'Py
-- Ren'Py on avoin pelimoottori, joka erikoistuu visual novel ja life sim peleihin. 
-- Ren'Py on alustariippumaton moottori: se toimii Windows, Mac ja Linux käyttöjärjestelmillä, sekä myös Android ja iOS laitteilla. 
+- Ren'Py on avoin pelimoottori, joka erikoistuu visual novel ja life sim peleihin.
+- Ren'Py on alustariippumaton moottori: se toimii Windows, Mac ja Linux käyttöjärjestelmillä, sekä myös Android ja iOS laitteilla.
 - Vaikka moottori on alunperin luotu visual noveleita varten, Ren'Py mahdollistaa myös esimerkiksi RPG ja point-and-click pelien kehittämisen.
 - Ren'Py hyödyntää omaa Pythonin päälle kehitettyä täsmäkieltä (engl. domain-specific language), joka on luotu tarkoituksenaan tehdä tarinoiden ja tekstin kirjoittamisen peleihin mahdollisimman helppoksi ja yksinkertaiseksi.
 
-## 5. Lähteet
+## 5.Bevy
+
+- Bevy on avoin moderni pelimoottori. Siinä kehittäjät arvostavat sen
+suorituskykyä, turvallisuutta ja modulaarista akkitehtuuria koodissa.
+- Perustuu Entity Component System (ECS)-malliin, joka yksinkertaisesti
+tekee koodista loogisemman ja helpommin ymmärrettävän varsinkin laajoissa
+projekteissa.
+- Ohjelmointikielenä käyttää Rustia.
+- Webassembly-tuki selainpeleille.
+
+## 6. Lähteet
 
 - https://o3de.org/
 - https://www.cocos.com/en/cocos2d-x
 - https://www.renpy.org/
+- https://bevyengine.org
