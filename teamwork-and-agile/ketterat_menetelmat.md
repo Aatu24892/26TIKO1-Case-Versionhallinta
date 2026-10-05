@@ -5,6 +5,7 @@
 Tämä luku keskittyy projektihallinan menetelmiin, jotka pyrkii maksimoimaan projetkityön tehokkuuden.
 
 <!-- mun 2:30 yöllä aivot tykkää tiiviistä tiivistelmästä -IS -->
+<!-- lyhyt ja ytimekäs tiivistelmä! -IM -->
 
 ## 2. Johdanto
 
@@ -13,6 +14,8 @@ Tehokkuus on oleellinen tekijä melkein jokaisessa yhteiskunnan ja talouden alue
 <!-- Koska otsikko on Ketterät menetelmät olisi kiva jos avaisit myös tätä käsitettä ja toisit sen enemmän esille jos ei siis ollut jo aikomus :) -IS -->
 
 <!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
+
+<!-- Komppaan Iidaa tässä, ensimmäiseen lauseeseen vois vaikka määritellä tuon käsitteen ja lopussa mainita Scrumin ja Kanbanin, muuten tykkään kyllä tästä kappaleesta. Esim. "Ketteristä menetelmistä puhuessa tarkoitetaan..." ja luvun loppuun voisi lisätä esim. "Scrum ja Kanban ovat ohjelmistokehityksessä ja projektinhallinnassa yleisesti käytettyjä toimintamalleja." -IM -->
 
 ## 3. Työkaluja
 
