@@ -1,4 +1,4 @@
-# <Artikkelin nimi>
+# XR teollisuudessa ja viihteessä
 
 ## 1. Tiivistelmä
 
@@ -16,6 +16,18 @@ oikeat ja virtuaaliset objektit ovat vuorovaikutuksessa toistensa kanssa.
 <Selitys, mistä artikkelin aiheessa on kyse>
 
 <Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
+
+Extended realitya käytetään IT-alalla moniin eri tarkoituksiin. VR:ää käytetään
+paljon esimerkiksi pelituotannossa ja tunnettuja VR pelejä on paljon. Pelien
+lisäksi sitä käyteään esim. simulaatiotarkoituksiin ja kyberturvallisuus
+skenaarioihin.
+
+AR:ää käytetään esim. asennustöitä tehdessä reaaliaikaisesti ohjeiden näkemiseen
+virtuaalisesti tai näkemään esim. informaatiota liittyen työkaluihin.
+
+MR:ää käytetään mm. IT-tuessa, jossa teknikot voi saada reaaliaikaista apua
+etänä esim. kehittäjiltä antamalla ohjeita ja kontrolloimalla laitteita muualta
+käsin.
 
 <!-- Tarvittaessa avaa termejä, tee bullet point -lista -->
 
