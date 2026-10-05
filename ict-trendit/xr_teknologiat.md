@@ -2,8 +2,6 @@
 
 ## 1. Tiivistelmä
 
-<Lyhyt, yhden kappaleen tiivistelmä aiheesta>
-
 XR tarkoittaa extended realitya, johon lukeutuu VR (virtual reality), AR
 (augmented reality) ja MR (mixed reality).
 
@@ -12,10 +10,6 @@ virtuaalisia elementtejä oikeaan maailmaan ja MR yhdistää molemmat, jolloin
 oikeat ja virtuaaliset objektit ovat vuorovaikutuksessa toistensa kanssa.
 
 ## 2. Johdanto
-
-<Selitys, mistä artikkelin aiheessa on kyse>
-
-<Rooli IT-alalla; paljonko käytetään, mihin tarkoitukseen, miksi tärkeää>
 
 Extended realitya käytetään IT-alalla moniin eri tarkoituksiin. VR:ää käytetään
 paljon esimerkiksi pelituotannossa ja tunnettuja VR pelejä on paljon. Pelien
