@@ -24,9 +24,9 @@ Dokumentit kertovat erillaisista mahdollisista pelimoottoreista ja miten ne toim
 
 ### 4. eri-avoimet.md
 
-**Kertoo:** Esittelee kolme peliteollisuudessa käytettyä avointa pelimoottoria, ja millaisten pelien tuotantoon ne erikoistuvat
+**Kertoo:** Esittelee neljä peliteollisuudessa käytettyä avointa pelimoottoria, ja millaisten pelien tuotantoon ne erikoistuvat
 
-**Kirjoittanut:** Maria
+**Kirjoittanut:** Maria, Sonja
 
 #### 5. README.md
 
