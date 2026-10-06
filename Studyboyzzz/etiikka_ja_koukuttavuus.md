@@ -39,8 +39,8 @@ Monissa peleissä voi olla odotusaikoja, jotka voivat kestää tunnista päiviin
 
 ## Videopelit uhkapelaamista?
 
-Monet keinot saada ihmiset koukkuun videopeleihin ovat hyvin samanlaisia, kun uhkapeleihin varsinkon Loot Boxit omaavat samankaltaisuuden. Lootboxien avaaminen sisältää paljon valoja, värejä ja paljon tapahtuu. Aivojen palkintajärjestelmä tyydyttyy ja dopaimiini virtaa. Avaamisesta on tehty spektaakkeli josta saa mielihyvää.
-Toisinkuin traditionaalinen uhkapelaus, videopeleihin sisältyvät palkinnot eivät ole aina suoraan vaihdettavissa rahaan, joten ne eivät asetu saamaan laki kategoriaan. Pelit joissa satunnaisesti saadut esineet ovat vaihdettavissa rahaan on saanut enemmä rajoitteita viime vuosina. Kuitenkin sama kumpaan kategoriaan pelin rahaa vaativat palkinnot on niin missää osto vaiheessa ei kysytä ostajan ikää. Tämä tietenkin voi johtaa kokuttuvuuteen hyvin nuorille ikäryhmille jota on vaikeampi hoitaa tai edes tunnistaa ongelmaksi.
+Monet keinot saada ihmiset koukkuun videopeleihin ovat hyvin samanlaisia, kun uhkapeleihin varsinkon Loot Boxit omaavat samankaltaisuuden. Lootboxien avaaminen sisältää paljon valoja, värejä ja paljon tapahtuu. Aivojen palkintajärjestelmä tyydyttyy ja dopamiini virtaa. Avaamisesta on tehty spektaakkeli josta saa mielihyvää.
+Toisinkuin traditionaalinen uhkapelaus, videopeleihin sisältyvät palkinnot eivät ole aina suoraan vaihdettavissa rahaan, joten ne eivät asetu saamaan laki kategoriaan. Pelit joissa satunnaisesti saadut esineet ovat vaihdettavissa rahaan on saanut enemmä rajoitteita viime vuosina. Kuitenkin sama kumpaan kategoriaan pelin rahaa vaativat palkinnot on niin että missää osto vaiheessa ei kysytä ostajan ikää. Tämä tietenkin voi johtaa koukuttavuuteen hyvin nuorille ikäryhmille jota on vaikeampi hoitaa tai edes tunnistaa ongelmaksi.
 #### Omistus
 Peleissä ostetut tuotteet, kuten pelit itsessään, eivät ole pelaajan omistuksessa. Tavaroiden tai kokonaisen pelin menettämisestä ei ole olemassa samanlaisia oikeuksia kuin fyysisten tavaroiden menettäesää. Tämä tekee pelijien sisäisitä ostoksista riski alttiimpaa sillä ne voi menettää ilman varoitusta.
 
