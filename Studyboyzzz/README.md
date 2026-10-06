@@ -10,3 +10,11 @@ Kansiomme sisältää 5 dokumenttia + README dokumentin.
 -Hyöty ja terveyspelit (terveyspelit.md) Sami ja ALeksanteri
 
 -Videopelien koukuttavuus ja etiikka (etiikka_jaKoukuttavuus.md) Aapo ja Aatu
+
+Prosentit:
+Aapo 20%
+Aatu 10%
+Toni 21%
+Mikael 18%
+Sami 16%
+Aleksanteri 15%
