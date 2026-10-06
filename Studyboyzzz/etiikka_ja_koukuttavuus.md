@@ -6,9 +6,9 @@ Minkälaiset pelit ovat pahimpia tekijöitä, ja mitä eettisiä kysymyksiä tä
 Kerry Hopkins EA:n varapresidentti vuonna 2019 kuulustelussa UK:n parlamentin edessä kutsui maksettuja Loot Boxeja yllätysmekaniikoiksi.
 Hän jatkoi kutsumalla niitä eettiseksi, hauskaksi ja nautittavaksi.
 Ja vertasi niitä Kinder yllätyksiin.
-Onko Loot Boxit ja vastaavat mictrotransactionit peleissä oikeasti vain "kinder yllätyksiä" vai voiko niitä kutsua uhkapelaamiseksi.
-Onko "oikeat" uhkapelit kuten rahapelit nettikasinolla, myös videopelejä.
-Ja saisiko kyseisia pelejä markkinoida lapsille?
+Onko Loot Boxit ja vastaavat microtransactionit peleissä oikeasti vain "kinder yllätyksiä" vai voiko niitä kutsua uhkapelaamiseksi. Saisiko kyseisiä pelejä markkinoida lapsille?
+
+
 
 ## Miten koukkutavuutta rakennetaan
 Keinoja joilla yritetään saada pelaajaa käyttämään enemmän aikaa tai rahaa peliin kutsutaan yhdessä nimellä "Dark Patterns" eli pimeät kuviot.
@@ -42,9 +42,18 @@ Monet keinot saada ihmiset koukkuun videopeleihin ovat hyvin samanlaisia, kun uh
 Tähän lisättynä Loot Boxien avaaminenkin sisältää paljon yhtäläisyyksiä uhkapelejen kanssa. Uhkapeleissä on paljon värejä, paljon valoja, paljon tapahtuu ja aivojen palkintajärjestelmä tyydyttyy ja dopamiini virtaa.  Lootboxien avaaminen sisältää hyvin paljon samankaltaisuuksia sen avaamisesta tehdään niin sanotusti spektaakkeli josta saa mielihyvää.
 
 
-## Eettisyys
-
-testi
 ## Tiivistelmä
+Pääasiassa isoin kysymys mikä nousee on se missä määrin nämä ovat vain "mekanismeja" ja missä kääntyvät manipuloinnin puolelle. Peleillä on tietenkin kaupallinen syy menestyä, mutta ongelma syntyy siitä kun ei pyritä tuottamaan elämyksiä vaan hyödyntämään ihmisten impulsseja ja heikkouksia. Tärkeä kysymys onkin lapset ja nuoret kohderyhmänä ja kenelle vastuu kuuluu. Onko se suunnittelijoiden vastuulla, huoltajien vastuulla vai pitäisikö valtion olla vastuu roolissa.
+Pelaaminen parhaillaan on rentoutumista, oppimista ja sosiaalisia suhteita. Tarkoitus ei ole kieltää pelejä vaan se että pelit kunnioittaisi pelaajia.
+
+
 
 ## Lähteet
+https://www.psychologyofgames.com/2019/08/what-the-heck-are-surprise-mechanics/
+https://www.polygon.com/2019/6/21/18691760/ea-vp-loot-boxes-surprise-mechanics-ethical-enjoyable/
+https://www.polygon.com/2019/6/21/18691760/ea-vp-loot-boxes-surprise-mechanics-ethical-enjoyable/
+https://equilibriapcs.com/the-psychology-of-gambling-addiction-why-the-brain-craves-the-bet/
+https://www.kostamokoti.fi/2025/11/14/miksi-pelaaminen-koukuttaa/
+https://www.psychologytoday.com/us/basics/video-game-addiction
+https://medium.com/@luc_chaoui/understanding-game-design-the-psychology-of-addiction-41128565305f
+https://www.video-game-addiction.org/what-makes-games-addictive.html
