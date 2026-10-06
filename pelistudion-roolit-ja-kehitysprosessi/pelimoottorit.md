@@ -10,6 +10,10 @@ Nykyaikaiset pelit kehitetään yleensä pelimoottorien avulla. Pelimoottori kok
 
 ## 3. Suosittuja pelimoottoreita
 
+### Unreal Engine
+
+Unreal Engine on yksi tehokkaimmista ja monipuolisimmista 3D ympäristöistä tällä hetkellä. Unreal Enginen ominaisuuksiin kuuluu hyvin  edistynyt grafiikka. Sitä käytetään videopelien lisäksi myös muissa tarkoituksissa kuten esimerkiksi elokuvatuotannossa.
+
 ### Unity
 
 Unity on yksi maailman käytetyimmistä pelimoottoreista. Sillä voidaan kehittää sekä 2D- että 3D-pelejä monille eri alustoille, kuten tietokoneille ja mobiililaitteille.
@@ -21,6 +25,10 @@ Godot on avoimen lähdekoodin pelimoottori, jonka suosio on kasvanut viime vuosi
 ### Pelimoottoreiden hyödyt
 
 Pelimoottorit sisältävät valmiita työkaluja grafiikalle, äänten käsittelylle, animaatioille ja käyttöliittymille. Tämä mahdollistaa nopeamman kehityksen verrattuna tilanteeseen, jossa kaikki ominaisuudet ohjelmoitaisiin itse.
+
+### Pelimoottorien vertailu
+
+Unreal Engine, Unity ja Godot ovat kaikki hyvin erilillaisia pelimoottoreita jotka sopivat eri käyttötarkoituksiin. Unreal on hyvä näyttävien 3D pelien tekemiseen. Unityllä onnistuu puolestaa 2D sekä 3D pelit ja Godot on kevyempi avoimen lähdekoodin versio. Paras valinta riippuu  paljon siitä millaista peliä ollaan tekemässä.
 
 ### Alustatuki
 
@@ -36,3 +44,6 @@ Pelimoottorit ovat keskeinen osa nykyaikaista pelinkehitystä. Ne tarjoavat kehi
 2. https://unity.com/features
 3. https://docs.godotengine.org/en/stable/about/introduction.html
 4. https://godotengine.org/features/
+5. https://www.unrealengine.com/uses/film-television
+6. https://www.unrealengine.com/features
+
