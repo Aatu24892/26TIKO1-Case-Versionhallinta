@@ -44,8 +44,7 @@ Habtica on verkkosovellus, joka on tarkoitettu itsensä kehittämiseen ja työte
 
 Zombie, Run! on mobiilikuntopeli, jonka tarkoitus on kehittää käyttäjän kuntoa ja pitää hänet motivoituneena liikkumiseen. Pelissä pelaaja toimii Runner 5 nimisenä hahmona, joka suorittaa sarjan erilaisia tehtäviä ja koittaa selviytyä apokalyptisessä zombie maailmassa. Todellisuudessa pelaaja juoksee pelin aikana ilman, että pelaaja tarvitsee käyttää käsiä. Pelin tehtävät suoritetaan automaattisesti. Tehtäviin kuuluu muun muassa tarvikkeiden keräämistä, joilla kehitetään pelissä olevaa tukikohtaa, sekä äänilokien kuuntelua, jotka edistää tarinaa. Käyttäjä voi halutessaan osallistua zombietakaa-ajoon, missä on juostava lyhyen aikaa nopeammin. Sovellus mittaa ja pitää kirjaa juostuista matkoista, vauhdista ja kulutetuista kaloreista.
 
-## Tiivistelmä
-???????????????????????????????????????????????????
+
 
 ## Lähteet
 
