@@ -42,13 +42,6 @@ Monet keinot saada ihmiset koukkuun videopeleihin ovat hyvin samanlaisia, kun uh
 Tähän lisättynä Loot Boxien avaaminenkin sisältää paljon yhtäläisyyksiä uhkapelejen kanssa. Uhkapeleissä on paljon värejä, paljon valoja, paljon tapahtuu ja aivojen palkintajärjestelmä tyydyttyy ja dopamiini virtaa.  Lootboxien avaaminen sisältää hyvin paljon samankaltaisuuksia sen avaamisesta tehdään niin sanotusti spektaakkeli josta saa mielihyvää.
 
 
-<<<<<<< HEAD
-
-=======
-## Eettisyys
-
-testi
->>>>>>> 2d8df1b451930b10a4e9dacfb8bb226a1581a73b
 ## Tiivistelmä
 Pääasiassa isoin kysymys mikä nousee on se missä määrin nämä ovat vain "mekanismeja" ja missä kääntyvät manipuloinnin puolelle. Peleillä on tietenkin kaupallinen syy menestyä, mutta ongelma syntyy siitä kun ei pyritä tuottamaan elämyksiä vaan hyödyntämään ihmisten impulsseja ja heikkouksia. Tärkeä kysymys onkin lapset ja nuoret kohderyhmänä ja kenelle vastuu kuuluu. Onko se suunnittelijoiden vastuulla, huoltajien vastuulla vai pitäisikö valtion olla vastuu roolissa.
 Pelaaminen parhaillaan on rentoutumista, oppimista ja sosiaalisia suhteita. Tarkoitus ei ole kieltää pelejä vaan se että pelit kunnioittaisi pelaajia.
