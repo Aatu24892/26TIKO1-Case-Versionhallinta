@@ -16,9 +16,9 @@ Dokumentit kertovat erillaisista mahdollisista pelimoottoreista ja miten ne toim
 
 **Kirjoittanut:** Mico, Sonja
 
-### 3. robloxstudio.md (?)
+### 3. robloxstudio.md
 
-**Kertoo:** Roblox Studiosta ---
+**Kertoo:** Roblox Studiosta ja luomisesta Studiossa
 
 **Kirjoittanut:** Eelis
 
