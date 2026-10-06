@@ -38,14 +38,16 @@ Monissa peleissä voi olla odotusaikoja, jotka voivat kestää tunnista päiviin
 
 
 ## Videopelit uhkapelaamista?
-Monet keinot saada ihmiset koukkuun videopeleihin ovat hyvin samanlaisia, kun uhkapeleihin. Lootboxit sinänsä ovat sama asia kuin yksi pyöräytys nettikasinolla. Ainut ero onse, että rahan sijaan mietit "tulisikohan sieltä se skini minkä halusin". Jos olet ikinä nettikasinolle rahaa laittanut tiedät myös varmaan, että muistutuksia ja mainoksia erilaisista bonuksia tai uusista peleistä tulee kokoajan sähköpostiin tai viestillä. Myös kasinot käyttävät FOMO:a hyväkseen sähköpostiin tullut viesti saattaa muistuttaa, että tämä diili on voimassa vain tämän viikonlopun. No mutta ainakin kasinot maksavat rahaa. Siihen asti kunnes saat viestin, että olet saanut 10 free spinniä jos tulet nyt pelaamaan, ja ehkä sen jälkeen haluatkin pelata vähän lisää.
-Tähän lisättynä Loot Boxien avaaminenkin sisältää paljon yhtäläisyyksiä uhkapelejen kanssa. Uhkapeleissä on paljon värejä, paljon valoja, paljon tapahtuu ja aivojen palkintajärjestelmä tyydyttyy ja dopamiini virtaa.  Lootboxien avaaminen sisältää hyvin paljon samankaltaisuuksia sen avaamisesta tehdään niin sanotusti spektaakkeli josta saa mielihyvää.
+
+Monet keinot saada ihmiset koukkuun videopeleihin ovat hyvin samanlaisia, kun uhkapeleihin varsinkon Loot Boxit omaavat samankaltaisuuden. Lootboxien avaaminen sisältää paljon valoja, värejä ja paljon tapahtuu. Aivojen palkintajärjestelmä tyydyttyy ja dopaimiini virtaa. Avaamisesta on tehty spektaakkeli josta saa mielihyvää.
+Toisinkuin traditionaalinen uhkapelaus, videopeleihin sisältyvät palkinnot eivät ole aina suoraan vaihdettavissa rahaan, joten ne eivät asetu saamaan laki kategoriaan. Pelit joissa satunnaisesti saadut esineet ovat vaihdettavissa rahaan on saanut enemmä rajoitteita viime vuosina. Kuitenkin sama kumpaan kategoriaan pelin rahaa vaativat palkinnot on niin missää osto vaiheessa ei kysytä ostajan ikää. Tämä tietenkin voi johtaa kokuttuvuuteen hyvin nuorille ikäryhmille jota on vaikeampi hoitaa tai edes tunnistaa ongelmaksi.
+#### Omistus
+Peleissä ostetut tuotteet, kuten pelit itsessään, eivät ole pelaajan omistuksessa. Tavaroiden tai kokonaisen pelin menettämisestä ei ole olemassa samanlaisia oikeuksia kuin fyysisten tavaroiden menettäesää. Tämä tekee pelijien sisäisitä ostoksista riski alttiimpaa sillä ne voi menettää ilman varoitusta.
 
 
 ## Tiivistelmä
-Pääasiassa isoin kysymys mikä nousee on se missä määrin nämä ovat vain "mekanismeja" ja missä kääntyvät manipuloinnin puolelle. Peleillä on tietenkin kaupallinen syy menestyä, mutta ongelma syntyy siitä kun ei pyritä tuottamaan elämyksiä vaan hyödyntämään ihmisten impulsseja ja heikkouksia. Tärkeä kysymys onkin lapset ja nuoret kohderyhmänä ja kenelle vastuu kuuluu. Onko se suunnittelijoiden vastuulla, huoltajien vastuulla vai pitäisikö valtion olla vastuu roolissa.
-Pelaaminen parhaillaan on rentoutumista, oppimista ja sosiaalisia suhteita. Tarkoitus ei ole kieltää pelejä vaan se että pelit kunnioittaisi pelaajia.
-
+Pääasiassa isoin kysymys mikä nousee on se missä määrin nämä ovat vain "mekanismeja" ja missä kääntyvät manipuloinnin puolelle. Peleillä on tietenkin kaupallinen syy menestyä ja pelien koukuttavuus on tarkasti suunniteltu elementti ja tärkeä osa niiden tuottavuudessa. Ongelma syntyy siitä kun ei pyritä tuottamaan elämyksiä vaan hyödyntämään ihmisten impulsseja ja heikkouksia.
+ Haittana on epäselvät rajat uhkapelaamisen ja "yllätyksien" välillä ja näiden olevan täysin rajoitettomasti avoinna alaikäisille. Myös peleihin käytetyn ajan määrä voi kasvaa epäterveelliseksi sekä pelaajalla ei ole omistusta mihinkään. Tärkeä kysymys onkin kenelle vastuu kuuluu. Onko se suunnittelijoiden vastuulla, huoltajien vastuulla vai pitäisikö valtion olla vastuu roolissa.
 
 
 ## Lähteet
